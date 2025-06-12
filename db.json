@@ -87,24 +87,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Paquete_Digital_Canci%C3%B3n_de_Hielo_y_Fueg-sample-epub.acsm?id=krMsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Paquete_Digital_Canci%C3%B3n_de_Hielo_y_Fueg-sample-pdf.acsm?id=krMsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=krMsDwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -196,24 +178,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_Se%C3%B1or_de_los_Anillos_no_01_03_La_Com-sample-epub.acsm?id=DYmUGGwZ8_oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_Se%C3%B1or_de_los_Anillos_no_01_03_La_Com-sample-pdf.acsm?id=DYmUGGwZ8_oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=DYmUGGwZ8_oC&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -306,24 +270,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Las_hijas_del_sol-sample-epub.acsm?id=IAF7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Las_hijas_del_sol-sample-pdf.acsm?id=IAF7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=IAF7DwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -417,24 +363,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Fest%C3%ADn_de_cuervos_Canci%C3%B3n_de_Hielo_y_F-sample-epub.acsm?id=tM82AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Fest%C3%ADn_de_cuervos_Canci%C3%B3n_de_Hielo_y_F-sample-pdf.acsm?id=tM82AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=tM82AwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -526,24 +454,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Alicia_en_el_pa%C3%ADs_de_las_maravillas-sample-epub.acsm?id=oDzZDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Alicia_en_el_pa%C3%ADs_de_las_maravillas-sample-pdf.acsm?id=oDzZDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=oDzZDgAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -635,24 +545,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Saga_Dune_1_6_La_mayor_epopeya_de_todos-sample-epub.acsm?id=uf5NEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Saga_Dune_1_6_La_mayor_epopeya_de_todos-sample-pdf.acsm?id=uf5NEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=uf5NEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -743,24 +635,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Dr_Jekyll_y_Mr_Seek-sample-epub.acsm?id=FYt8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Dr_Jekyll_y_Mr_Seek-sample-pdf.acsm?id=FYt8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=FYt8DwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -852,24 +726,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_PRINCIPITO-sample-epub.acsm?id=KK6eEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_PRINCIPITO-sample-pdf.acsm?id=KK6eEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=KK6eEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -960,24 +816,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_nombre_del_viento_edici%C3%B3n_de_lujo_po-sample-epub.acsm?id=IZWWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_nombre_del_viento_edici%C3%B3n_de_lujo_po-sample-pdf.acsm?id=IZWWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=IZWWDwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1070,23 +908,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_le%C3%B3n_la_bruja_y_el_ropero-sample-epub.acsm?id=l1-aEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=l1-aEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1177,24 +998,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Sherlock_Holmes_Relatos_2_Los_mejores_cl-sample-epub.acsm?id=jgYmCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Sherlock_Holmes_Relatos_2_Los_mejores_cl-sample-pdf.acsm?id=jgYmCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=jgYmCQAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1288,22 +1091,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=84Whswqz4rAC&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1401,24 +1188,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Relato_de_un_n%C3%A1ufrago-sample-epub.acsm?id=gDNjBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Relato_de_un_n%C3%A1ufrago-sample-pdf.acsm?id=gDNjBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=gDNjBgAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1510,24 +1279,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Refactoring-sample-epub.acsm?id=2H1_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Refactoring-sample-pdf.acsm?id=2H1_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=2H1_DwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1618,24 +1369,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/1984-sample-epub.acsm?id=H8Y1EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/1984-sample-pdf.acsm?id=H8Y1EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=H8Y1EQAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1731,22 +1464,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=6oHuKQe3TjQC&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1840,24 +1557,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Las_aventuras_de_Don_Quijote_de_la_Manch-sample-epub.acsm?id=699qCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Las_aventuras_de_Don_Quijote_de_la_Manch-sample-pdf.acsm?id=699qCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=699qCwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -1947,24 +1646,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_almohad%C3%B3n_de_plumas_y_otros_cuentos-sample-epub.acsm?id=Pf70DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/El_almohad%C3%B3n_de_plumas_y_otros_cuentos-sample-pdf.acsm?id=Pf70DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=Pf70DwAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -2054,24 +1735,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/La_interpretaci%C3%B3n_de_los_sue%C3%B1os-sample-epub.acsm?id=USHY7YqtIp8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/La_interpretaci%C3%B3n_de_los_sue%C3%B1os-sample-pdf.acsm?id=USHY7YqtIp8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=USHY7YqtIp8C&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     },
     {
@@ -2161,24 +1824,6 @@
             }
           }
         ]
-      },
-      "accessInfo": {
-        "country": "AR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Libro_de_sue%C3%B1os-sample-epub.acsm?id=fT1R8r_CkOIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com.ar/books/download/Libro_de_sue%C3%B1os-sample-pdf.acsm?id=fT1R8r_CkOIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=fT1R8r_CkOIC&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
       }
     }
   ]
