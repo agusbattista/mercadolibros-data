@@ -1,0 +1,2184 @@
+[
+    {
+      "kind": "books#volume",
+      "id": "krMsDwAAQBAJ",
+      "etag": "a3c6UJilfsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/krMsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Paquete Digital Canción de Hielo y Fuego (5 libros)",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "PLAZA JANÉS",
+        "publishedDate": "2017-07-15",
+        "description": "<p> <b>La monumental saga de fantasía épica del escritor George R. R. Martin, que inspiró la aclamada serie televisiva de HBO: <i>Game of Thrones</i>.</b> </p> <p> <p> <b>Ahora reunida por primera vez en un paquete digital.</b> </p> <p> <p> <b>\"Una de las mejores series en la historia de la literatura fantástica\"-Los Angeles Times-</b> </p> <p> <p> <b>Libro 1. <i>Juego de tronos</i>:</b>En el legendario mundo de los Siete Reinos, lord Stark y su familia se encuentran en el centro de un conflicto que desatará todas las pasiones y la más mortal de las batallas...</p> <p> <b>Libro 2. <i>Choque de reyes</i>:</b> Cuatro nobles se proclaman, a la vez, reyes legítimos, y las tierras de Poniente se estremecen entre guerras y traiciones. Un horror presidido por la más ominosa de las señales: un inmenso cometa color sangre suspendido en el cielo.</p> <p> <b>Libro 3. <i>Tormenta de espadas</i>:</b> Mientras empeoran la violencia y el clima en los Siete Reinos, otra fuerza armada, surge desde más allá del Muro de Hielo: se trata de los Otros, un ejército sobrenatural de muertos vivientes, cuyos cuerpos inertes no podrán ser detenidos.</p> <p> <b>Libro 4. <i>Festín de cuervos</i>:</b> Luego de siglos de guerras descarnadas, los siete poderes que dividen la tierra han alcanzado una difícil tregua. Pero no pasa mucho tiempo antes de que los sobrevivientes, los proscritos, los renegados y los carroñeros de los Siete Reinos se reúnan...</p> <p> <b>Libro 5. <i>Danza de dragones</i>:</b> De todos los rincones, enconados conflictos cobran nuevos bríos, traiciones íntimas se perpetran y un gran elenco de proscritos y sacerdotes, soldados y criaturas camaleónicas, nobles y esclavos, enfrentarán obstáculos en apariencia insuperables.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6073155735"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073155731"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 6701,
+        "printedPageCount": 6100,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Fantasy / General",
+          "Fiction / Action & Adventure"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73S6g6F_vYA6_Dj2n_62fy2qtbNKa51DRgB7ylPij9F4DCuBoBod7sob-OxOHCZxAHqVjLTYO9Hv-KBYCMXMQbRUYYtlUcL4DULHCJQFVKg8vPFigYhC3w21YwXmw59lZr9r_X4&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72dIL1cNPzhBjrQh1s5Q5Lt0l8MWImY76aI0vDi7x2QSm4F9QLa2O74dP5mtTysFGYlOXE8k4fwh0x9BmicdQ1FVulMh_L-b2ydvzrOg3ETjRa07ilI4AOpuJrxW_gqDR4w3yfE&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70W3AaGDzLWbUowICVewoB67X9k7HVfFhApfQutW6RfjxrVTF27HDv56eGLUSLFvonKCxEW6vLwakqAiMZgFGoI-2QiZtGIjnR-oCSu1oUzIRYgQ00hlv0FZnn_kdK0shb13nkt&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70XxX78Qv5gW9CpIZyP0-0Tryb8QYIpqAsbXbt1nGgexBpDNKJmpOYGM4FUmQphvB1SrM4aDnsDRvbvGALss-I67Jurck2FVSSZ_SyPLj9WV6NAk1SFO-XgRLHPFLE34Qmd1LZH&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70rQYtGM3yghKkUO0Yi6RPbInCvIikcO79qnp6cdvt-NrYOMFg3XPhPWgK972Cu6agA7QBayZC9wZCTn2FmH7S4ckS3lZa4HHUM2ADbPWl_P9aoZ7Z7WJ926cJKuhfyXlaE2QtQ&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71lZ1aBcepNwqY4yv599uqbnEre19BkYrCVCLBOA3Jpt9wrU5FNCTsWbweLa310LGGdVugu_qQHdLpOeCaTeNctOYFPED9MUfURIKRFcNpjCrymFx82QpzaFodUALeE0mkSnfWv&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=krMsDwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=krMsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=krMsDwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "8"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 33.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 33.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=krMsDwAAQBAJ&rdid=book-krMsDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 33990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 33990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Paquete_Digital_Canci%C3%B3n_de_Hielo_y_Fueg-sample-epub.acsm?id=krMsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Paquete_Digital_Canci%C3%B3n_de_Hielo_y_Fueg-sample-pdf.acsm?id=krMsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=krMsDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DYmUGGwZ8_oC",
+      "etag": "Zsnnmxq+RXY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DYmUGGwZ8_oC",
+      "volumeInfo": {
+        "title": "El Señor de los Anillos no 01/03 La Comunidad del Anillo (edición revisada)",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Grupo Planeta Spain",
+        "publishedDate": "2010-07-15",
+        "description": "<p> <b>Primera entrega de la trilogía.</b> </p> <p>«Este libro es como un relámpago en un cielo claro. Decir que la novela heroica, espléndida, elocuente y desinhibida, ha retornado de pronto en una época de un antirromanticismo casi patológico, sería inadecuado. Para quienes vivimos en esa extraña época, el retorno —y el alivio que nos trae— es sin duda lo más importante. Pero para la historia misma de la novela —una historia que se remonta a la Odisea y a antes de la Odisea— no es un retorno, sino un paso adelante o una revolución: la conquista de un territorio nuevo.» —C.S. Lewis, Time & Tide, 1954</p> <p>«La obra de Tolkien, difundida en millones de ejemplares, traducida a docenas de lenguas, inspiradora de slogans pintados en las paredes de Nueva York y de Buenos Aires... una coherente mitología de una autenticidad universal creada en pleno siglo veinte.» —George Steiner, Le Monde, 1973</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8445077910"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445077917"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 704,
+        "printedPageCount": 617,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Fantasy / General"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.40.39.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73hmV-CLcvJ4df292K3VsWSwU9TPa9l0JMNLGh_TvipNNc_Yya8OHf27-40ZJIZp_H8dSGPu3N0BxIV0E0nSi4pWVyBbF-hsVulIs5nU5yl5kQ0ZQmJV1OW7zmaeMcs1Ay_VWaY&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE723KgbpEXcei840yTr86gWjF59e4UJzl_Sn5_yi2M2eu14Wl02s005n5pTWQ05vLS8_975RdvOOEHZz6JjSYwRgYhiFtNlSLG7whTtGwPIqBDWAbWVvWjPaxO47fAl-YSx_0SIx&source=gbs_api",
+          "small": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71nGk1slzJLYkLURJ2Hf6WO6SHswE1CCbrHiWaE6eNkkEt67BL_epo-ztEIM-ZeW37P9SOZ-EV-j0x2htWeyDDNDD1wq2KN6i0Iz4dP67X_WjtWsBp9-uvODnup1lKN5_axZpXw&source=gbs_api",
+          "medium": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73KcKATR36ACZFi1nlDZez5835y0lz0USI_lMHB69CWcIMuCf_rYfLL4kgwABt2lkVsV2pqJtf-LPHH57EqQ6s2jtJuDM7wRbm_UpWuxf6npXq2VTtdv_51IVfg-bxcQIj8tYEG&source=gbs_api",
+          "large": "https://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73jdmoPIykB-7An0mb0G2Iqz0cxlCsfEboBHncYTbubE8JKEYp7oGj-JmV8ytDTOo-2FIqZodj2ZEHTzqoSgGlGZdSEOxvHBkcky3UBibLFJG5TMTVof-AxIfC7CsR-L5yWWTM_&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70PRyfDfsv8ib4T_mUGf9qA1sWZyO5-lqSPIDMwT0UFNd1jT530DaD9eXI2S5uKSLZIh2izTacaRtrPaMuo4ZCzbnDl47ZKJ--BbscYXgpXEpyjpNMHJ0ydjwocvT1i5Ea7knK-&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=DYmUGGwZ8_oC&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DYmUGGwZ8_oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DYmUGGwZ8_oC"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "45"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DYmUGGwZ8_oC&rdid=book-DYmUGGwZ8_oC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_Se%C3%B1or_de_los_Anillos_no_01_03_La_Com-sample-epub.acsm?id=DYmUGGwZ8_oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_Se%C3%B1or_de_los_Anillos_no_01_03_La_Com-sample-pdf.acsm?id=DYmUGGwZ8_oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DYmUGGwZ8_oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IAF7DwAAQBAJ",
+      "etag": "XA04Vc3bfP8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IAF7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Las hijas del sol",
+        "authors": [
+          "Mariana Guarinoni"
+        ],
+        "publisher": "VERGARA",
+        "publishedDate": "2018-11-18",
+        "description": "<p> <b>Romance, intrigas y una trama policial en esta ficción que entreteje el pasado con el presente: de la princesa inca Maytanchi a la periodista Nadia Calderón, de la caída de un imperio a la ambición por encontrar un tesoro milenario. Y como siempre, eterno, el amor, que no conoce el tiempo. </b> </p> <br> <p>Cuando Nadia Calderón, periodista aficionada a la arqueología, encuentra un manuscrito en una cueva en las montañas, descubre la historia de la princesa inca Maytanchi y sus primas, <b>las Hijas del Sol</b>, elegidas para servir al dios Inti. Cuando los españoles se apoderan del imperio, Maytanchi es entregada como obsequio a un capitán español, La princesa se desespera porque todo lo que quiere desaparece, pero pronto conocerá a un cacique rebelde y el amor lo cambiará todo.</p> <p>Del pasado de Maytanchi al presente de Nadia, a la luz del manuscrito, la joven periodista cree que hay indicios para encontrar el tesoro perdido de Atahualpa. Y alguien más cree lo mismo. La perspicaz Nadia deberá enfrentar muchos peligros para proteger su descubrimiento y conservar la vida.</p> <p>Pasiones desatadas, guerras entre imperios, ambiciones modernas y el amor que es igual en todas las épocas, en esta ficción histórica apasionante.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9501510662"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789501510669"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 432,
+        "printedPageCount": 383,
+        "dimensions": {
+          "height": "19.00 cm"
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Romance / Historical / General"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE729d-uk_uGWd8_dEmb6bu8rbD-UB7TZvSKJCsoOPPwT0GBwhSc_fU8FiZb8JqcjunAgRtOyHFIgdGVrWz3OUY83CLrq2oiVqGskMJ1ogv8ms1NXyAuzPPWxseU-fCtVrvYDMgiP&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73s-_g2oelzD06UElFfQAik9P9vNV7ysI8hVqwEXpGTweEoaTCNNvvtsdWPc8aNMgZZ8qJL9yE1J06PHfxbHrHZ7SegcJvecI0eWd5zj0fZPfccvrW_IR_PLfUjk9frdtJGEJ5n&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70wb950o7Rr1eFKdmMYYjCN1fkBBYeAz6CWqVrI-Jy3o0zTjzaBfa2kfmgK6aNz6g95fy9GBvAl-e0Gu-WWyjykbMRQR-SBuQzRVRO9ozrfHNQPridGaRfEoSk11LfUKsXjGpF_&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72BpV7omsS7mdEJg-ytFyvDkeRhQDT7JO84JodBfYH_k8jTKxqXV13nvv-RcRQYTpluWX0Gh_qEZ6uGLsvwOXfUe0ipJ5QZjH2yLVLqn82JNXxfUuU5Yd6Sx3FUFIikTl_zspNd&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73u0lggdmRt2EJ5QU05FwQ66ffrybsFBQLIOAcxOzQHIJ0P3SksFLHa-1ZRByoXD4Uu3E-_xMEp37dUXBJiYk1pKqw8nkX7smo-QxTJIN-jtsdwye6AAvTMMN4-Bm7lgiUCggE-&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72BOlnV5y59WpooHOQvd5HfV1FeCzHyGO87v_wvCUGcZAsfA8jvqQE_P1aIg4bAFPVVNtzdFwu806AwQ1_UhLHxAArlJY2TaAhx1sG0B6GUb7sJ4gncrHjUPvHf6PjnJzBqbJXU&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=IAF7DwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IAF7DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IAF7DwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "9"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IAF7DwAAQBAJ&rdid=book-IAF7DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Las_hijas_del_sol-sample-epub.acsm?id=IAF7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Las_hijas_del_sol-sample-pdf.acsm?id=IAF7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IAF7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tM82AwAAQBAJ",
+      "etag": "Vy/WK6CsFOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tM82AwAAQBAJ",
+      "volumeInfo": {
+        "title": "Festín de cuervos (Canción de Hielo y Fuego 4)",
+        "subtitle": "La inspiración para la serie original de HBO®",
+        "authors": [
+          "George R. R. Martin"
+        ],
+        "publisher": "PLAZA JANÉS",
+        "publishedDate": "2014-04-04",
+        "description": "<p>Luego de siglos de guerras descarnadas, los siete poderes que dividen la tierra han alcanzado una difícil tregua. Pero no pasa mucho tiempo antes de que los sobrevivientes, los proscritos, los renegados y los carroñeros de los Siete Reinos se reúnan...</p> <p> <b> <i>Festín de cuervos</i> es el cuarto volumen de Canción de hielo y fuego, la monumental saga de fantasía épica del escritor George R. R. Martin que ha vendido más de 20 millones de ejemplares en todo el mundo.</b> </p> <p> <b>La saga que inspiró la filmación de la aclamada serie televisiva de HBO: <i>Game of Thrones</i>.</b> </p> <p>Cuando se apaga el clamor de las espadas, solamente queda carroña para los cuervos. Luego de siglos de guerras descarnadas, los siete poderes que dividen la tierra se han diezmado unos a otros hasta alcanzar una difícil tregua. Muy pocos reclamos legítimos existen ya por el Trono de Hierro, y la guerra que ha convertido al mundo en poco más que un desierto al fin ha terminado. O eso parece. Pero no pasa mucho tiempo antes de que los sobrevivientes, los proscritos, los renegados y los carroñeros de los Siete Reinos se reúnan.</p> <p>Ahora, como cuervos humanos que acechan un banquete de cenizas, nuevas intrigas y peligrosas alianzas se forman, a la vez que rostros sorprendentes algunos familiares, otros desconocidos emergen de un siniestro crepúsculo de caos y luchas pasadas para asumir los desafíos de los terribles tiempos que se avecinan. Nobles y plebeyos, soldados y hechiceros, asesinos y sabios se unen para hacer valer su vida y sus fortunas. Porque en un festín de cuervos, muchos son los invitados... pero sólo unos pocos logran sobrevivir.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6073123698"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073123693"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 872,
+        "printedPageCount": 1145,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Fantasy / General",
+          "Fiction / Sagas"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.26.23.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71wEjmJxh_8-UUKa5ybRBeetscAfTvGTVLaEbV73k9K927QB052bvfjeVj_QziU5coyEAKbHa6aRHUj3vkMsX87C-_w7EOPufTmkDp3sTQsGi0HSsgBtPHIByeohhUIDYzB8dlg&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72ZzWG7-kDAjM-gukWbDi4Jq0i3Hd9hdQm97z5u_mVzUFQ9-e0ZU1WhRaR9LSJIVKZPh63xbbvB8sYdXgOyGzARxcoNgUvhzaetJKvt3MqZDpBgaVhSzZjhe97pf-wvmtvbvo6x&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71q6Mk6tomtOqtMexEmAGHhYM1yOUgwMJdDnTIMADq589svjU_6oIw7O2C6-d0Wubt0pq4Nm_UOeVmKVFmvESGcaIB1WVxknEdBQdr3jWuMqMaVeEVHCs0BEALMB0ul9rX6h8MS&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70cM-mnmqLGr2oCfROjnNY-R9gHFT6xurgGXTks7NuK_eOm8MCbVHVfn_cMNTkbm0nJjv0q48URRDD8koiUrWrp_Zfm7TBGgvP7WLGjYIUfgxdSSTsHPonc7CBZDtZcKtFWr50p&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72Tfmt8jcmZQuwuN8W26mudP6lvcQ046K9LNE6PXVTLrv2onVQqOaUgnt4uAe1WXwLlzlyIrxmTL6iT_WBb3KfpYwwOTdZo1fjmshfIl2HKB_Fpgng4tFE803-Az-e9j4yRwt_g&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE706InZO8py2mCCKyfbQ6uFXdTLvjaG7YXzPILCCNi9Lz-mhOefTQ4UgOZodRtFzmsdnVNNKhwWf7HTlJCVA5zMHeacabmAWsJYQSJtdu1_zm9NkHQZcyBwICSnp4qSSoG037zbO&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=tM82AwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tM82AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tM82AwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "34"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 15.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tM82AwAAQBAJ&rdid=book-tM82AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Fest%C3%ADn_de_cuervos_Canci%C3%B3n_de_Hielo_y_F-sample-epub.acsm?id=tM82AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Fest%C3%ADn_de_cuervos_Canci%C3%B3n_de_Hielo_y_F-sample-pdf.acsm?id=tM82AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tM82AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oDzZDgAAQBAJ",
+      "etag": "UiQWAqubPlc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oDzZDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Alicia en el país de las maravillas",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publisher": "Ediciones LEA",
+        "publishedDate": "2017-05-05",
+        "description": "Una adaptación para chicos del clásico de Lewis Carroll. Alicia es una pequeña niña que se encuentra descansando junto a su hermana a orillas del río cuando, de repente, ve un conejo blanco que pasa apurado cerca de ella. ¿Adónde la llevará ese misterioso conejo? A una de las aventuras más leídas y conocidas de la historia de la literatura, un mundo donde las cartas de la baraja cobran vida, los gatos aparecen y desaparecen y existe una Reina que ama tanto el croquet como cortar cabezas. Un mundo maravilloso que Alicia descubrirá con decisión y valentía, asombrada por los extraños personajes que se despliegan ante ella.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9877184931"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789877184938"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 64,
+        "printedPageCount": 75,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction / Classics",
+          "Juvenile Fiction / Fantasy & Magic",
+          "Juvenile Fiction / General"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71K0rFz0zCN1CvoIlRXPvsNDIQpmr9vnyFpOZ2mjeivKJ5KeH_MLSumLXIDIJfmqYXQhj8jYu0fJIbGbFJynaXCSdg8dxv_vkIwG99ta5i8Ajzs8CYGc0djQzBETRTnjVSljCZb&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70PGSzaxBao38o6JmGD24YVDbBgTnpOW-t-7ysuPNDgKcmWZdmQfywj2DpFR1g52W6Kpq5FG5Uk5LRUqVQco12EGfs-8tsmLg41V796B0KXk32BFZga_px9WM-CtTpX246IoaZr&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE739-riFr46Oy2NM4y1oF7jZwo9Z3S-YaMauuh3o3IzJg9Y3NXcMKiu-hZLsdZhbP7Ifmy2K9shZCSgxktQ_QmuEPVqGHjY8y-CEOaZoH4DaMxQAM8_-09ahJvuku7ag7wfFNb7E&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70rjmFy-wbtUFPMaRFSotMxldBn7bPF1ooWpfO8zozBhG9vfU7hNzJmj0EsOVR-twt-tPV7MaKxaAHFky_HpB5O_IhOw5jz8RqJIlQeHQ7EWKqtTVoTqQVQpPCeWWWZVgvK6c23&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73FY6i2kA8yM02QLs0Ym79IU6ei_8Kp-0xqqfJ2NnY85PAXixaVMV1oKzrwQ7OKTWl2ZxuE6npi6S-6E3cGkbOQfr0eID63-EMrdQVT42AKshoDdJQXCTH_xGRpCTMN29rECIla&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71ywfEIe_L1JcdD9EkYGi3nuTbz4DQAj9eonB-NkxzGi2pejsEBLMGePfLH2HeXdjrktLk8rGswrx08itSF2-A5kcuCA3vZFPzwmP81Q--9ZFod8imq5XHrPtT1l-X8kpoQ5gjo&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=oDzZDgAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oDzZDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oDzZDgAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "3"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oDzZDgAAQBAJ&rdid=book-oDzZDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Alicia_en_el_pa%C3%ADs_de_las_maravillas-sample-epub.acsm?id=oDzZDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Alicia_en_el_pa%C3%ADs_de_las_maravillas-sample-pdf.acsm?id=oDzZDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oDzZDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uf5NEAAAQBAJ",
+      "etag": "xyDgAZRpp/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uf5NEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Saga Dune 1-6. La mayor epopeya de todos los tiempos",
+        "subtitle": "(edición estuche con: Dune | El mesías de Dune | Hijos de Dune | Dios emperador de Dune | Herejes de Dune | Casa capitular Dune)",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "publisher": "DEBOLS!LLO",
+        "publishedDate": "2021-12-02",
+        "description": "<p> <b>Esta</b> <b>imponente edición estuche reúne los</b> <b>seis primeros volúmenes en edición actualizada de «Dune», la saga que se convirtió en un fenómeno de culto desde</b> <b>su publicación</b> <b>hace ya más de medio siglo.</b> </p> <p>En un futuro lejano, en un planeta remoto, se libra una compleja lucha que tendrá repercusiones en toda la galaxia. En las arenas de Akarris, más conocido como Dune, aprender a sobrevivir no es suficiente...</p> <p>Este estuche contiene los volúmenes: <br> <b>1.</b> Dune <br> <b>2.</b> El mesías de Dune <br> <b>3.</b> Hijos de Dune <br> <b>4.</b> Dios emperador de Dune <br> <b>5.</b> Herejes de Dune <br> <b>6.</b> Casa capitular Dune</p> <p> <b>Esta saga apasionante plantea por primera vez de forma completa, racional y convincente todo un mundo absolutamente diferente del nuestro. Sus referencias a los problemas ecológicos, el poder de las drogas y la fuerza de los mitos la han convertido en una obra de culto para millones de lectores en todo el mundo.</b> </p> <p> <b>Reseñas:</b> <br> «No conozco nada comparable, excepto <i>El Señor de los Anillos</i>.» <br> Arthur C. Clarke</p> <p>«Es muy probable que <i>Dune</i> sea más vigente a día de hoy que cuando salió a la luz.» <br> <i>The New</i> <i>Yorker</i> </p> <p>«Uno de los monumentos de la ciencia-ficción moderna.» <br> <i>The Chicago</i> <i>Tribune</i> </p> <p>«Un fenómeno impresionante.» <br> <i>The Washington Post</i> </p> <p>«La más gran novela de ciencia-ficción que ha habido. Star Wars no existiría sin ella.» <br> <i>The Guardian</i> </p> <p>«Simplemente perfecta.» <br> <i>The New York Times</i> </p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8466362096"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788466362092"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 3472,
+        "printedPageCount": 3710,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Science Fiction / Space Opera",
+          "Fiction / Classics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71Do2bIaByUNx2Fg6fYkmYV5iJLEU2W-PY-ScFVJJGACdGWEmgeYfRVhiKT6YYWl_ubW-xMkl3i_uAdl5asLbQQZaK0s12W4H2f4uqWVTAr3Dzn0VPNhHTIaW1Gf2ioYRmXqb61&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70NNN5gxXkO6B4UNzsRbgn6haB3UX3DGYEUgQA7wq0zi3NWCxPTo-Tq3w1sTh3IglCidcP3MUVT12IsMJDZKqqU4OdviMj3OWN9QfixmgEnwYGfHIeyALdyzV-5ScSG863z3a5V&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71cqYAEw_h7iY3nEDZsk2xT7b0lz8vatC-7w8ui9fycjI7zEB7denXxPTKhCEi4UVxSudOUFGVo6d3QVUAVEKlgCqfAaEpJIF5xajwn9dHkoplHG4FWzXyUi_o3Ppmkkxmu21Vl&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71bPTB6VmtepDdlw2GcVgcYeLvfHzeVeBc8CesfoROmRhvBskpZtkEXduSq5lXLkhiiyddztgjT9jNyAg0MHoHblZKeUs2TkBRHsOAhaqeNk5b5nBO8UwW9TanaIS-JMtLzppmD&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73DjbfXlLAALdm_xMMUAtaHflC1-O8q5Kje1ZVxmTBzZ6knVaWQcla_wHGYWLV4jH_p1TrHb43xwkhik8ZDkd0Z_uH9bAZWc1EZ0EUdG2YoF0O0SlRQIW0im9nh9eKSwxkyZNUj&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE718ALtaRNZKFeopKb7o9XsX0hvgl0Fi6j0G_yElYpc9BbekTCxUHL7qCaayuFT5KFfFwOwjyp2uBzVmHmBUqZ0k8cb-rDOYR1P2lR-uBXDB9eLGpCzW0rkXXRzrfvQuEbJlb080&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=uf5NEAAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uf5NEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uf5NEAAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "9"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uf5NEAAAQBAJ&rdid=book-uf5NEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Saga_Dune_1_6_La_mayor_epopeya_de_todos-sample-epub.acsm?id=uf5NEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Saga_Dune_1_6_La_mayor_epopeya_de_todos-sample-pdf.acsm?id=uf5NEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uf5NEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FYt8DwAAQBAJ",
+      "etag": "HR5NlhvaaV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FYt8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dr. Jekyll y Mr. Seek",
+        "authors": [
+          "Anthony O'Neill"
+        ],
+        "publisher": "ROCA EDITORIAL",
+        "publishedDate": "2019-01-17",
+        "description": "<p> <b>Una secuela brillante y deliciosa de una de las obras maestras de la literatura.</b> </p> <p> <p> <b>El extraño caso del Dr. Jekyl y Mr. Hyde continúa...</b> </p> <p>Siete años después de la muerte de Edward Hyde, un elegante caballero aparece por las calles de Londres reclamando que es el Dr. Henry Jekyll. Tan solo el Sr. Utterson, abogado y confidente del Dr. Jekyll sabe que es un impostor, porque Jekyll era Hyde.</p> <p>Pero mientras este misterioso hombre se va relacionando con la alta sociedad londinense, y va reclamando sus bienes, los cuerpos de sus posibles enemigos van desapareciendo, Utterson comienza a temer por su vida y a cuestionarse su propia cordura.</p> <p>Una secuela brillante y deliciosa de una de las obras maestras de la literatura que cumple a la perfección como complemento a la historia original que lidiaba con aspectos sobre la dualidad del ser humano, mientras que es esta secuela el autor ahonda en el audaz robo de la identidad.</p> <p>¿Puede ser que este hombre que parece y actúa tan parecido al Dr. Henry Jekyll sea un realidad un impostor?</p> <p> <b>La crítica ha dicho...</b> <br> «Anthony O'Neill realiza su más sincero homenaje a Stevenson. Todo emana esa esencia del original. Aunque en esta ocasión, la propuesta de O'Neill se aleja del terror gótico y profundiza en la intriga. Francamente, debería ser una lectura obligada.» <br> <i>Edición original</i> </p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8417541705"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417541705"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 264,
+        "printedPageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Thrillers / Historical",
+          "Fiction / Mystery & Detective / Private Investigators"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70BC5Hr2faVAzyr2LI0JxOtcglGrbyA0jUT9AfVC7fNKPwD9LSzUpw1hGeIVgdV9Dk8yyko2g2o5PNeMxPlaRWapU7Uq7MGmShHbdbHt6CPSYcjyeEaf9B8lyIn5jNSWvOGNchB&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70RHlRzr3MTnbHYtOZXHg9ortlIvj8Hd23_SY6k4ONR6eIhd7WnUu84jisOeSrQerQ4EDIexId4pTXw53XzCi818CiI7gXd04mF33fYCNjGWk-ROFfMKPR3Hsvoe8eJ9TuLXj9Z&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE725lXoP6rozi5VXtIB3KA7YDGF6M1skzy-uVXmwiTYlcQVgit6VrkTgpAB0ryv4127JztKbJnSxDuzuI5XRHzv3qY7iNmSFb9PW96dorLH5PEAY3DbaFWwd2xmkE1tueXNokmps&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73q-2L9Twsbrq5lobbAqpx6XaTEu50D_T-oBGhghD71n18S1TDH_VJle3Ldj6FomcY1UN20yeTTZKwhTmncMCKUkj9KF8SahGW2do5tHjobqw9On6KUfsebSdahJ_cR-dBF6lV4&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70V2jojEeNJUHg-YhWQHKHhpCa4y3Og8O4n8gAxFex1hh0as-Z3Xmzo1sNRGf_zZDNRwt0Rn-KBFxNZRnrTuk-vu34O0_owxuIs1WCfIxrVqS8W_eRkDeBTwKZuuOP8mxdMqdQ7&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72TMSzXjyPcoaypDE-hWwoRmIu9lILccGx9_JTL5r1CXcIXuhOgqYAVWUnYzwHOgWVInE9OTXWBy3OhFFePWXQuB1I0PkXYTePml8GJilMqIyiE80FTbpfmxy8NuebIMdznLDdh&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=FYt8DwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FYt8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FYt8DwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "9"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FYt8DwAAQBAJ&rdid=book-FYt8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Dr_Jekyll_y_Mr_Seek-sample-epub.acsm?id=FYt8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Dr_Jekyll_y_Mr_Seek-sample-pdf.acsm?id=FYt8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FYt8DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KK6eEAAAQBAJ",
+      "etag": "vzEZ42uj/OU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KK6eEAAAQBAJ",
+      "volumeInfo": {
+        "title": "El PRINCIPITO",
+        "subtitle": "Con las Acuarelas Originales del Autor",
+        "authors": [
+          "Antoine de Saint-Exupéry"
+        ],
+        "publisher": "Lebooks Editora",
+        "publishedDate": "2022-11-30",
+        "description": "<b>Antoine-Marie-Roger de Saint-Exupéry</b> (1900 - 1944) fue un escritor y aviador francés conocido principalmente por su novela El Principito. Escrito en Nueva York durante la Segunda Guerra Mundial y ilustrado con sus propias acuarelas, <b>El Principito </b>se publicó en 1943 y logo se convirtió en un gran éxito mundial. El libro é tenido como uno de los mejores de todos los tiempos y un clásico contemporáneo de la literatura universal. Su estilo sencillo aliado a un profundo carácter reflexivo sobre la vida, la sociedad y el amor, lo convierten en una narración de interés para todos. El Principito ha sido traducido a decenas de lenguas y adaptado a diversos formatos, como el teatro, el cine, la serie animada, el ballet y la ópera, siempre con mucho exito.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6558941813"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786558941811"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 90,
+        "printedPageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Classics",
+          "Young Adult Fiction / Classics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70hzx-Zxi1HRxPvFGanhWOdMLipxvirjHYPmmn9sMycQ4Ar8uJlFQT9CnpLXiuosuvCliWaTLT-ERDPKau14swKuab8N5mYl9GW1KgUMgs081gvW8lCHqjUj8cHCeJATSAXl5M9&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70OtT4YgiD4DK5xLSEyqrdengWtweUPOms2wHabL6pxybgS7u-2t_L0-uSID_5MGkTELDU26NgQ9lbZFW_RVDKJ2Nf9c_IVrCv_jVz1fKQWdTJ1d7B21sboge0wNME8jtJjOUOs&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70pWThKWAgJoMGjhb5Tbi7v2OkJzS5lABv9XfdsfBdHTN_14VqHuBzAllWyWqsiefxXd-hIk6qllAOIAf-uIUZgJqQOS6KaHToKS3Wx9j88ZVasw5E8jhubfnDuMcsawKlhzYQq&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72728BU6bfGBpi6_hLxpcbZDspVzEMZvPUridPRpLsyTU6KeXji75lKwXfXEovD7YPP7M7BJ7uhw0dha3T4CP8j2_nh6VRbHwlcfZ3FkNl5eW0kEPtLEX5bbG4IkugP0Mofu6SU&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71d8cmd506S6YsgtOtyiBaWQ9GsUtHPu6FjZSVWXbz4QCn6g5PDXhsrbuUeufT0IGBPb0TRjqxIcZ4G7jqs19ucZcCLsDNKwOjrLicZIqgVwD17xmjO3yvWaCPYs4COJEh6iY-F&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71joEgxXXC7DVJ7oOljZV1fVBmsyXDXHG3HUtdnrGv_nakJ4eclpLd-IS7lT0dFgEfsAlPFgHj4q0aFCi-4zCTWW39y-nytBSYDFJaYBFsflCvgCb5IIuJ96oCivsmQdFp8NExH&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=KK6eEAAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KK6eEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KK6eEAAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "3"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.86,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.86,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KK6eEAAAQBAJ&rdid=book-KK6eEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1860000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1860000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_PRINCIPITO-sample-epub.acsm?id=KK6eEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_PRINCIPITO-sample-pdf.acsm?id=KK6eEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KK6eEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IZWWDwAAQBAJ",
+      "etag": "gRHrOnwylxs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IZWWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "El nombre del viento (edición de lujo por el 10o aniversario de la publicación)",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "publisher": "PLAZA & JANÉS",
+        "publishedDate": "2019-05-23",
+        "description": "<p> <b>Atípica, profunda y sincera, <i>El nombre del viento</i> es una novela de aventuras, de historias dentro de otras historias, de misterio, de amistad, de amor, de magia y de superación que ha deslumbrado -por su originalidad y la maestría con que está narrada- a todos los que la han leído.</b> </p> <p> <p> <b>Esta es una maravillosa edición ilustrada y actualizada para conmemorar el 10o aniversario de la publicación en español de la aclamadísima novela que consagró a Patrick Rothfuss como fenómeno editorial.</b> </p> <p> <b>Desde su publicación en español hace ya una década, </b> <i> <b>El nombre del viento </b> </i> <b>ha embelesado a millones de lectores de todo el mundo. Esta edición conmemorativa y actualizada nos brinda la oportunidad de profundizar en el universo inigualable de Patrick Rothfuss con material inédito que incluye: notas del autor, del editor y de la reconocida escritora Jo Walton, veintiuna magníficas ilustraciones a página completa de Dan Dos Santos, mapas de Nate Taylor y apéndices ilustrados sobre la historia, las monedas y el calendario de los cuatro rincones de la civilización.</b> </p> <p> <b>«Viajé, amé, perdí, confié y me traicionaron». </b> </p> <p>En una posada en tierra de nadie, un hombre se dispone a relatar, por primera vez, la auténtica historia de su vida. Una historia que únicamente él conoce y que ha quedado diluida tras los rumores, las conjeturas y los cuentos de taberna que le han convertido en un personaje legendario a quien todos daban ya por muerto: Kvothe... músico, mendigo, ladrón, estudiante, mago, héroe y asesino.</p> <p> <b>La crítica ha dicho...</b> <br> «Una celebración del gusto de contar historias». <br> <i>El País</i> </p> <p>«Insólita y preciosa. Puntuación: sobresaliente». <br> <i>Qué Leer</i> </p> <p>«Un libro para quien conoce el mágico poder de las palabras». <br> Ricard Ruiz Garzón, <i>El Periódico de Catalunya</i> </p> <p>«Vaya donde vaya Pat Rothfuss con la espléndida historia que comienza con <i>El nombre del viento</i>, nos llevará de la mano como el buen músico nos lleva por una canción». <br> Ursula K. Le Guin</p> <p>«Un libro asombroso». <br> Orson Scott Card</p> <p>«Este Rothfuss es condenadamente bueno.» <br> George R. R. Martin</p> <p>«Patrick Rothfuss me ha recordado a Ursula K. Le Guin, George R.R. Martin y J.R.R. Tolkien, pero en ningún momento he sentido que estuviera imitándolos. Sin duda <i>El nombre del viento</i> se convertirá en un clásico». <br> <i>The Times</i> </p> <p>«Cuando empecéis a leer, preparaos para perder el mundo real de vista y sumergiros en una historia de magia, amor y aventura inmensamente original e hipnótica». <br> <i>The Barnes & Noble Review</i> </p> <p>« <i>El nombre del viento</i> es una de las mejores historias contadas durante la última década. Guardadlo en la estantería al lado de <i>El señor de los anillos</i>». <br> <i>The A.V. Club</i> </p> <p>«Tan absorbente en una segunda lectura como lo es en la primera, este es el tipo de primera novela que la mayoría de los autores tan solo pueden soñar con escribir. El universo de la literatura fantástica tiene una nueva estrella». <br> <i>Publishers Weekly</i> </p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8401023963"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788401023965"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 944,
+        "printedPageCount": 1153,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Fantasy / General",
+          "Fiction / Action & Adventure"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72d-GIcZFpJbPUixk4UzHD-oE1iGJ9FH1cQbx7FXnaekveoT9wkp_r3iKsQhciu_WfiZY3K3nPAB-FYcxoJBijnJ86MJi7e7PatjGMTtSO4MrnucDJTng2F_cOKlIQSO_cUvhKc&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72yzMSwaLYnLh4NhP9wWHPRfLiYw2Dc3zl_uuMBVoJXA9vu_cIbii5bDriXBpd_gSaRVv5luwwG5LuVDtGBFp2jXqi4IwNMdbKEdsJMzScBc7OU1GN2F8oanFl_oC3nNPkE7BbA&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73z7pjGcGkwlnRf5Pgh-EJzzPqCHaewhOpFD6mVA-uERgU5aExUfskDxcOYzeye8IjuRenFEzsN-cll-6rnEwNlUt9rKa_9NGheMtGkFROqVj5JEsI87LRdp6l3IHf-N5J2o2B3&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE701-VWOZW-peqOyaxIyJyNUIJBGtFSdN467HQaNI4_C9Yywhn8BMy1TLIcJWOaY6diAmmDZZ1I01kUNki1t3WFRX0pleqD1kDKYB5jC_MoieK_2XbHY3j0z8qAk_-qEW-axsPBf&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71Oplj7xh_DVEyhpCMpfS70AtiOIRyGlirWoMvis88M2oOE9AmOkiWmQ6KhHTZc9rTt11TUXt9SxKbx2XFwMkXzApdmNuxF7lpXSnIfs02WRo9dRsu-0qNJo1711aBDLlI0VgzP&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73gaqPiWH81HXYKUqfM9gvjM0F0PspwyZT8Qp5ZmR-kZ_yy5GnMnNOqgdIAgNAhwq5VZ0A-Rtbdc5hRjMLDlVh_VY8NmQ90LabPrAGy0wUQWPcd9k_JFiJBpCIqfuKe044rMWRx&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=IZWWDwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IZWWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IZWWDwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "7"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IZWWDwAAQBAJ&rdid=book-IZWWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_nombre_del_viento_edici%C3%B3n_de_lujo_po-sample-epub.acsm?id=IZWWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_nombre_del_viento_edici%C3%B3n_de_lujo_po-sample-pdf.acsm?id=IZWWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IZWWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l1-aEAAAQBAJ",
+      "etag": "RxaAJTDqoY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l1-aEAAAQBAJ",
+      "volumeInfo": {
+        "title": "El león, la bruja y el ropero",
+        "authors": [
+          "C. S. Lewis"
+        ],
+        "publisher": "Grupo Nelson",
+        "publishedDate": "2023-05-16",
+        "description": "<p>NARNIA... la tierra que está más allá del ropero, el país secreto que solo conocen Peter, Susan, Edmund y Lucy... el lugar donde comienza la aventura.</p><p>Lucy es la primera en encontrar el secreto del ropero en la vieja y misteriosa casa del profesor. Al principio, nadie le cree cuando cuenta sus aventuras en el país de Narnia. Sin embargo, pronto Edmund y luego Peter y Susan descubren la magia y conocen por sí mismos a Aslan, el Gran León. En un abrir y cerrar de ojos, su vida cambia para siempre.</p><p>Por primera vez, el lenguaje de los siete libros clásicos ha sido adaptado para el lector latinoamericano y editado para garantizar la coherencia de los nombres, personajes, lugares y acontecimientos dentro del universo de Narnia. Además, presentan las cubiertas e ilustraciones originales de Pauline Barnes.</p><p>Aunque forma parte de una saga, este es un libro independiente. Si quieres descubrir más sobre Narnia, puedes leer El caballo y su muchacho, el tercer libro de Las crónicas de Narnia.</p><p>The Lion, The Witch and the Wardrobe</p><p>NARNIA... the land beyond the wardrobe, the secret country that only Peter, Susan, Edmund and Lucy know... the place where adventure begins.</p><p>Lucy is the first to find the secret of the closet in the Professor's mysterious old house. At first, no one believes her when she tells of her adventures in the land of Narnia. Soon, however, Edmund and then Peter and Susan discover the magic and meet Aslan, the Great Lion, for themselves. In the blink of an eye, their lives change forever.</p><p>For the first time, the language of the seven classic books has been adapted for the Latin American reader and edited to ensure consistency of names, characters, places and events within the Narnia universe. In addition, they feature the original covers and illustrations by Pauline Barnes.</p><p>Although it is part of a saga, this is a stand-alone book. If you want to discover more about Narnia, you can read The Horse and His Boy, the third book of The Chronicles of Narnia.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1400334608"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400334605"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printedPageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction / Action & Adventure / General",
+          "Young Adult Fiction / Classics",
+          "Fiction / Christian / Fantasy",
+          "Juvenile Fiction / Religious / Christian / Action & Adventure"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71gDYnQqAIXSLwEC2LclKzkXTPi5XhymPrA6dgKVbaht0CXsf8do6Ag4qW6nS_1jCF3MujG545nditmbYKWB68Ge-baPZOqYAvGAjvaEYPBL9wya6KNdS6MJ9zQ3TkYjzDN-mOf&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73BbzoPbXRy_7aS1qIsbwUNPM9zkvA8cT22PQzH2IYRa2b3kKSyAO6YBmfIY4NAFIYKIPOuecd5h4FkUIV6n3hujPBDJ8-Zbvtv7OwLoIk2oobfLfiCmypHRLIVean1qcR2sJ8C&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70cWzWA-U2bDAFLBAW58Gwul7AG1rOTCNDem7SzAmlyNVH03Sg_AgFB75tBoGXSmOm8IHkpQbn-C99GoL3quf9Gj9rgESV5k4AXc3KCD4XzN5R-Ho-x87_2-p3hx30Zz6dM70Yx&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72_fkaqJpxAxbnMC-nGKakA_LhefuXKzbajej8oWZ7ylPzVtGg7RjZV_dmQOBwT-rNJdNJwEmXK8ag2kiLJLKST3t2hugECQzs1ylyAHQi0-zFSY7pE4qzzy3Xf4p5AhO5xoAg3&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72q3XHiB0HDkofGz4R6P3bohq8HO4_QSifELN4mdZtrgc89WhN_jsyJMJYjdrqe-AQY2S8o6F-ri4hR1vvO7Zn_AJ1CvbA-y91RNJF8tMCNeHdY5qYbA-_REc8WivMz5uEGYlRe&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73xvNOsCisaM1WeDcNzVCwxobPttTKRC5kPJqpwzKql53BZlxPTGAPwlsFEU_CA91pQigY5TNRVQrFUo9XivYZcgBt05dcOZasit8hbwi0E0Tc3R99ikCCHo9vSQlLU1kFC_9KP&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=l1-aEAAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=l1-aEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=l1-aEAAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "2"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=l1-aEAAAQBAJ&rdid=book-l1-aEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_le%C3%B3n_la_bruja_y_el_ropero-sample-epub.acsm?id=l1-aEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l1-aEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jgYmCQAAQBAJ",
+      "etag": "uysOqzFKPvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jgYmCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Sherlock Holmes. Relatos 2 (Los mejores clásicos)",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publisher": "Penguin Clásicos",
+        "publishedDate": "2015-06-11",
+        "description": "<p> <b>Tres cautivadoras colecciones de relatos de Sherlock Holmes en un solo volumen.</b> </p> <p> <p> <b>Traducción de Juan Camargo</b> </p> <p> <b>Introducción del crítico literario Andreu Jaume</b> </p> <p>El presente volumen recoge las tres colecciones de relatos que completan el canon holmesiano: <i>El regreso de Sherlock Holmes</i> (1907), <i>Su último saludo</i> (1917) y <i>El archivo de Sherlock Holmes</i> (1927). Tras volver de una muerte que nunca tuvo lugar, Holmes sigue resolviendo los casos más complicados. En «La aventura de la caja de cartón», por ejemplo, debe encontrar al remitente de un horrible paquete que contiene dos orejas humanas. En otras ocasiones, tiene que impedir sucesos casi inevitables, como en «Su último saludo», donde una peligrosa arma no puede caer en manos del enemigo a las puertas de la Gran Guerra. O en «La aventura de la melena de león» donde él mismo narra, mientras disfruta de un merecido retiro en Sussex, cómo atrapó a un extraño animal homicida.</p> <p>Esta edición, que se abre con un estudio introductorio de Andreu Jaume, pretende homenajear el empeño editorial de Esther Tusquets, cuyo proyecto de publicar el canon holmesiano quedó interrumpido. Juan Camargo, experto en novela de masas europea y americana, ha completado la labor traductora.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8491051244"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788491051244"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 888,
+        "printedPageCount": 917,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / World Literature / Scotland / General",
+          "Fiction / Mystery & Detective / Traditional"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70XcDAhZGKqj_EI_JYWQc8QKNSyea4f8hbwx3hpmj6tM_Lta6uRZBcuQ9s5ksQsvNokxqRv8GNM77klV-j51_NQG8UMwYgx8X_n-lpWwosy2vvuQic_7LmEuyp-LWotxBQL1e7Y&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73f_zEap1DWysnI-r4CSiTm6BxNnQ3Ou9isUM-AEqBNgRTx5h7RROF6BiNY6xKlbm0ZG1tzvVW6ra9fSHTUqWx5kcO0UYb7N9HYzxJ04W6VkEwCG9R8Vw7mTTGR7wjNf0o4AgZj&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73ZuuQlOkv7pwg5gNbrjrOSUw2bJqn3OTIIYl2bOpXjrveB46sFglxQ8Iso26m5W77XRf_zvYysHmcrzNyGV_NV_hbwjUxEbF2RyZrQvBLr500oitDroomgHGk18dXv7dTF5Nec&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72tTIbzxFAxtqfT-mcWaTVo1zaaA_o5XoREXs3UifFqo2cdoz6l7sub54Q9X9ECm8MNgdZnTzAB3qAPm9YvOHdogRsr7zuiGWxeJQ-2vM7ZVFcHC2upXtFDmVLkfZHK1HTi1XE7&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71MAnua9AK9sJ9_bIeMbVNvYtFt-oatVTZekBBXs0h5GBC9fPiStGX9ytetCWhgluKUNDwM3M0yqFFMMkP1IVy19v9OhqhzEq2Jqf_hizlXEQeUMf6BVP54qEnsHnjzvPf06r3A&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71otR0i1HAep6yMZlgLLQDrTkX31-D8BtjdRi-WoMDoJ6he1MbMS2Rz6hdLLg_ozksam_Q6q_Eicc3OdFS4oI3r0oIMxUMefylB1GyoYVmdn1H3si-9brnNM4oCTiUfrv7cCb1i&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=jgYmCQAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jgYmCQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jgYmCQAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "17"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jgYmCQAAQBAJ&rdid=book-jgYmCQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Sherlock_Holmes_Relatos_2_Los_mejores_cl-sample-epub.acsm?id=jgYmCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Sherlock_Holmes_Relatos_2_Los_mejores_cl-sample-pdf.acsm?id=jgYmCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jgYmCQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "84Whswqz4rAC",
+      "etag": "SytdpbeZ8t0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/84Whswqz4rAC",
+      "volumeInfo": {
+        "title": "Design Patterns Explained",
+        "subtitle": "A New Perspective on Object-Oriented Design",
+        "authors": [
+          "Alan Shalloway",
+          "James R. Trott"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2004-10-12",
+        "description": "<p>\"One of the great things about the book is the way the authors explain concepts very simply using analogies rather than programming examples–this has been very inspiring for a product I'm working on: an audio-only introduction to OOP and software development.\"</p> <p>–Bruce Eckel</p> <p>\"...I would expect that readers with a basic understanding of object-oriented programming and design would find this book useful, before approaching design patterns completely. <i>Design Patterns Explained </i>complements the existing design patterns texts and may perform a very useful role, fitting between introductory texts such as UML Distilled and the more advanced patterns books.\"</p> <p>–James Noble</p> <p>Leverage the quality and productivity benefits of patterns–without the complexity! <i>Design Patterns Explained, Second Edition</i> is the field's simplest, clearest, most practical introduction to patterns. Using dozens of updated Java examples, it shows programmers and architects exactly how to use patterns to design, develop, and deliver software far more effectively. </p> <p>You'll start with a complete overview of the fundamental principles of patterns, and the role of object-oriented analysis and design in contemporary software development. Then, using easy-to-understand sample code, Alan Shalloway and James Trott illuminate dozens of today's most useful patterns: their underlying concepts, advantages, tradeoffs, implementation techniques, and pitfalls to avoid. Many patterns are accompanied by UML diagrams. </p> <p>Building on their best-selling First Edition, Shalloway and Trott have thoroughly updated this book to reflect new software design trends, patterns, and implementation techniques. Reflecting extensive reader feedback, they have deepened and clarified coverage throughout, and reorganized content for even greater ease of understanding. New and revamped coverage in this edition includes </p> <ul> <li>Better ways to start \"thinking in patterns\" </li> <li>How design patterns can facilitate agile development using eXtreme Programming and other methods </li> <li>How to use commonality and variability analysis to design application architectures </li> <li>The key role of testing into a patterns-driven development process </li> <li>How to use factories to instantiate and manage objects more effectively </li> <li>The Object-Pool Pattern–a new pattern not identified by the \"Gang of Four\" </li> <li>New study/practice questions at the end of every chapter</li> </ul> <p>Gentle yet thorough, this book assumes no patterns experience whatsoever. It's the ideal \"first book\" on patterns, and a perfect complement to Gamma's classic <i>Design Patterns</i>. If you're a programmer or architect who wants the clearest possible understanding of design patterns–or if you've struggled to make them work for you–read this book.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0321630041"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321630049"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 480,
+        "printedPageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Computers / Programming / Object Oriented"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70DZ2nvuWFMKYSxPBP577Rc_SxmzYO6YFx442qwgnYWuDypU5fA10bKvtgthbK_CeCY25YeSQGQ-y3cmDBYH3cx9X0gLldprzxTj0p_GTXcODK5MPwIJ3M-sPS1IPLSw6WSJ9Q1&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71pyLo1pZ1SGgTeOosj0mT2X0ZASPfCXdz_RJrajrmv3Z96838Hoj_NPQ1m4z7mO8iSDjEE_EkXsRZbdRSt6gRzLW1Wjkd_EnuOYN_13-qFKnk_oxkatN0sKmSc378UBkjrZPGa&source=gbs_api",
+          "small": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71_wbBBqcm17Ol4J89J8O-DJ5qa-xO97Sk1us3HbmCgMplVJ83gLV6m7E3vjkWCWKQpxIsN4I8qsOI4yeIgBaU8vctORE9LfGjWRuxVDwS4PAsZjWvwsKmA0-sK0HJZIvkpn3AJ&source=gbs_api",
+          "medium": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71iYVt-_MMjfcdba9tNm-wnA4h_Gk24NrgqNJT08q1OqwrHwj2lYC5CMn2QEbIBLQFS6Exb52BuVed24DEPIvGbQqbrHPM9MIvXkO16FwiscKl71S_jRYAcKpg-HlVWkx4BsbPX&source=gbs_api",
+          "large": "https://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71mixeTyYup3vbsGRB7JSoN6qKgX2VPlt1CFNI-x7bXwsP51HBHfheczaxTO61pnG3qLZdrVgMQuXDE2b9RD__Ue0c1cAuQmClVuNwVMsaP101HAWGnOWCYioJNxFMBpHNl1fYV&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73fA7zANgPNwAyXXf55AD0NGwPWxoRWOlu99UthmWlHgH2-QHym_X2v8P3nf3AT3o5rWO82vflrlKHJ-YYRoICTq-_jUG6sQtI2ydiS5ifMZUMxMYmCkPaWtYZrtox0-z5zcCjG&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=84Whswqz4rAC&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=84Whswqz4rAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=84Whswqz4rAC"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "16"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 39.43,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=84Whswqz4rAC&rdid=book-84Whswqz4rAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39430000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=84Whswqz4rAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gDNjBgAAQBAJ",
+      "etag": "zbqThAVko0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gDNjBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Relato de un náufrago",
+        "authors": [
+          "Gabriel García Márquez"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2015-02-05",
+        "description": "<p> <b>El periplo desnudo y descarnado de un marinero a la deriva.</b> </p> <p> <b>Y el relato que le costó el exilio a Gabriel García Márquez.</b> </p> <p>«Mi libro preferido, y el primero que escribí.» <br> Gabriel García Márquez</p> <p>Con este libro, Gabriel García Márquez se descubrió a sí mismo como un narrador. Sin embargo, la intención primera era escribir un reportaje sobre un hombre, Luis Alejandro Velasco, que estuvo diez días a la deriva en una balsa mecida por el mar Caribe. El futuro Nobel de Literatura y entonces joven reportero que era García Márquez escuchó el relato de los hechos de boca de su protagonista y los transformó, tal vez sin pretenderlo, en un prodigioso ejercicio literario, una narración escueta y vigorosa donde late el pulso de un gran escritor. La publicación por entregas del reportaje en <i>El Espectador</i> de Bogotá supuso un alboroto político considerable -se revelaba la existencia de contrabando ilegal en un buque de la Armada colombiana, lo que costó la vida de siete marineros y el naufragio, más afortunado, de Velasco- y el exilio para su autor.</p> <p> <b>«El 22 de febrero nos anunció que regresaríamos a Colombia. Teníamos ocho meses de estar en Mobile, Alabama, Estados Unidos, donde el A.R.C. <i>Caldas</i> fue sometido a reparaciones electrónicas y de sus armamentos. En los días de franquicia hacíamos lo que hacen todos los marineros en tierra: íbamos al cine con la novia y nos reuníamos después en Joe Palooka, una taberna del puerto, donde tomábamos whisky y armábamos una bronca de vez en cuando.»</b> </p> <p> <b>La crítica dijo...</b> <br> «Su narración más perfecta.» <br> <i>El País</i> </p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8439729871"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788439729877"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printedPageCount": 104,
+        "dimensions": {
+          "height": "23.90 cm",
+          "width": "14.30 cm",
+          "thickness": "1.50 cm"
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Magical Realism",
+          "Fiction / Literary"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72j60FJyGp5QJ0tqn_MpwIDQ-J-QROOK_WwtWKNeVCTqTSlmPwuh8QvO99Fy5deJuGvubpzszcPBAkt2aFYgH5BZUQdVA6CwXvnuXShrFEf3BEgiIreL7GxOgS7xCvrZSgmMsJf&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70h5krcpxT9HKLuzdSzptz6aVnmiiRtZI8fx-7DLkXlLqFkQ8lcr7XY-LtYU-Pulkae-Eht8kp_yZXUNEHIsKTJEufjbqAaoMF1T97xlB-KdVTDFzXQPCBS0Mi3v37NfGCnjqSV&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72PD0KahhHwHqT8J6kIiM-7f_XooFP4ftm_W_XpoZQDtIGdwVsC70bFiYUeYwduuKWIhXjq9tf9K8o0NVqvdlUnIi9313mPqXNXIKXC10ziMxc67VBemawoyDhuVxXGNCz9kUmF&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71_EbPhrqwiRx_O4AAB3oo8jKI58y-trRCVrHK9dPConbzAYB7WoYa0uELkZtAFXL9mYitEDy2NwtQIzNFwbV8_pT0BOQqlK_Qr-vGVd3lzhNg5ly2iKrslH5IXJUeHRUHQvFVl&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70CmYanXUdTe4URrl7x4ts7gsqibYiiZAOg6Z07I71xXwZDmFiK1GvUQ-tIEfU5K8pVD5Vui80ScihS502NVzygU4jIVwyhnmQXELh-wvalzRBeyugn1uzdXrEn9hrWIu4Pbtjh&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71uDfQ8nZglRKoikn5PFv3g1XZjPI0Ix1IHERIxZtqOYZYOXNFI2mjhiXANVd_zG055CYpuiw_9T3hHreOIUxDlExC0Bvy_RideEvcLmk08s1q5t2LWlbH-F1Y7Qhz5i-HOWXIP&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=gDNjBgAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gDNjBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gDNjBgAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "20"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gDNjBgAAQBAJ&rdid=book-gDNjBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Relato_de_un_n%C3%A1ufrago-sample-epub.acsm?id=gDNjBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Relato_de_un_n%C3%A1ufrago-sample-pdf.acsm?id=gDNjBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gDNjBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2H1_DwAAQBAJ",
+      "etag": "f+ezTdnmtu8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2H1_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Refactoring",
+        "subtitle": "Improving the Design of Existing Code",
+        "authors": [
+          "Martin Fowler"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2018-11-20",
+        "description": "<p>Martin Fowler’s guide to reworking bad code into well-structured code</p> <p>Refactoring improves the design of existing code and enhances software maintainability, as well as making existing code easier to understand. Original Agile Manifesto signer and software development thought leader, Martin Fowler, provides a catalog of refactorings that explains why you should refactor; how to recognize code that needs refactoring; and how to actually do it successfully, no matter what language you use.</p> <ul> <li>Refactoring principles: understand the process and general principles of refactoring</li> <li>Code smells: recognize “bad smells” in code that signal opportunities to refactor</li> <li>Application improvement: quickly apply useful refactorings to make a program easier to comprehend and change</li> <li>Building tests: writing good tests increases a programmer’s effectiveness</li> <li>Moving features: an important part of refactoring is moving elements between contexts</li> <li>Data structures: a collection of refactorings to organize data, an important role in programs</li> <li>Conditional Logic: use refactorings to make conditional sections easier to understand</li> <li>APIs: modules and their functions are the building blocks of our software, and APIs are the joints that we use to plug them together</li> <li>Inheritance: it is both very useful and easy to misuse, and it’s often hard to see the misuse until it’s in the rear-view mirror---refactorings can fix the misuse</li> </ul> <p>Examples are written in JavaScript, but you shouldn’t find it difficult to adapt the refactorings to whatever language you are currently using as they look mostly the same in different languages.</p> <p>\"Whenever you read [Refactoring], it’s time to read it again. And if you haven’t read it yet, please do before writing another line of code.\" –David Heinemeier Hansson, Creator of Ruby on Rails, Founder & CTO at Basecamp</p> <p>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” –M. Fowler (1999)</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "013475770X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780134757704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 448,
+        "printedPageCount": 1221,
+        "printType": "BOOK",
+        "categories": [
+          "Computers / Programming / Object Oriented",
+          "Computers / Software Development & Engineering / General"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73fZjExM0NU1P8ej_iohISD50Q2nj2GQR6_h9KiU9-ryeKgIB6HIhExHw1lyrGicqnxl9EKiPgLR9ExuknigrhrLobGxf2fJQi1kkoEKY23CeaWqy0-Uqi-TYf7IfsGH0EWSQPF&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71Jig3upFbGmZ26JRDYDCSIokZfHN9oAG7iu1LZTgINdJaIgFV93okFG91USSsNAVtlPOB1il_xpyHJ3-8F8T6u6hQBro4vByL6dRuzAJyAMDQ5lI9VWn3O3-u2xCkW1Aem2ZYW&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE721rFM5bInKCoEW3iKy1nJMnmiQo6Patc07SoDXC8HvF_KrFDl_ZMkd0LHTP7lpRHp-LGSEWsZUFYW0O2ocdsmqWAuNpOzVPUxoL6wN7KpVouk12t13RPR97cLzlXMkaYjEjBcz&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71T04nGSxcRdVLNYefkgvFCeRtddAe6cYYKSKYRAh_X5Tjc6Db7Z7KaxGsz2tqltMJCYeccSwvlrRq31bssfTjnQxJczoq5cVJcukVvqtphf8E19JThVUkbYfivtqSfHQgDQJeh&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71z4it-OBYpHFzX3iwIoYhUL__usdjr6ttEqCoPN-xlbKc5SC2MDgbTsdQUyFGbCJSbwMrIES0Vqso2pBg-CJs_xt2yDRoDun1dSUCqNRgnYOfkSpKIni2OjQ7JffAOABrPvEIF&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70EXn2PfBqNEMRda5D1XiAdEAr0NimgjOzQik6x-QbC2mZNgWP26ANB2PSG9eFhkO3PAApSHLLHULgEZj_ryKwTJYEc4LHBhEe2cbEW1-E7l9cfknpNQD7BQOTNYD3u-TKdRf7G&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=2H1_DwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2H1_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2H1_DwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "10"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 39.43,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2H1_DwAAQBAJ&rdid=book-2H1_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39430000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Refactoring-sample-epub.acsm?id=2H1_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Refactoring-sample-pdf.acsm?id=2H1_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2H1_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H8Y1EQAAQBAJ",
+      "etag": "RprYO9/jMQY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H8Y1EQAAQBAJ",
+      "volumeInfo": {
+        "title": "1984",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Océano Gran Travesía",
+        "publishedDate": "2024-11-28",
+        "description": "<p> <b>«La guerra es paz. <br>La libertad es esclavitud. <br>La ignorancia es fuerza». </b> </p> <p>Corre el año 1984 y la guerra y la Revolución han dejado el mundo irreconocible. La sociedad está gobernada por el Partido, bajo el liderazgo del Hermano Mayor. La vigilancia masiva lo es todo y la Policía del Pensamiento garantiza que no se permita ningún razonamiento individual. Atraído por una aventura amorosa, Winston Smith encuentra el valor para unirse a una organización revolucionaria clandestina llamada la Hermandad, cuyo objetivo es la destrucción del régimen. Pero Winston y su amada Julia se verán enfrentados a las consecuencias de su decisión, y arrojados a lo más profundo del horror y el miedo.</p> <p>Pocos libros han conseguido una influencia tan dominante en la cultura popular como <i>1984</i>, y hoy día sigue vigente su inquietante advertencia contra el totalitarismo.</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412794486"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412794489"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 416,
+        "printedPageCount": 442,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction / Classics",
+          "Juvenile Fiction / Classics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71fkA90pfUXcFKB0juhiSWilEvzACVzHh1hl6L2iKsGXYHZaS6f8XNR1SLwPoVLzABp3a96GL0sZ8HmtwGKRNiIvq8aHh-MJ9zRWTy-zD6UqXpuvI4rUiLfuiyMJhJWzxoT46tc&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73c66idApia1Ns6rXFLXL6YESYXAUFo76SQMRsARtnLQA8_8urTu3rUwXQjDlmp59Fzqakw-34jfI8j490pB0GOg1wF-D11eWJ4NemsMbFTPe6JqsITA7QClQ-wYfcXNBu-CQyG&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70VKThVB3z0-GSjZ9oJuFhK2WjAbz63V4KCH4BBXMRDNNBI-Ci60l0rMWRI06ersj5iUNoPRKqUC1y8YsXg3RzUtbeKM4ZUHvMUuqo58oT5aTCe3xj3Xm0D9SNu4xp4TcRXjopD&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73Id4wo3en1A1fiQi6RYsiK7dvdpIacwF08FcesrtiR3ojtsMo6pE-MXV9sgcmycm--HpptNAKV3dQryrqIe48dsOAINBDVq7D8FPj6qmCgy_lhe7D5XiasZiWtIIW32FnMpn3s&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70w44SubUHTPNXw7307I6-rW0F9kbYWezj8KKjqLzTOX1YZgVlHRhXATFvh4WNmzpp5Vw1J-QD3jI82TVpEJBthgrp78R7qNqEA0AzDE41gPvLKjXi1n13rZHpLjuLs0_3m4vw9&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73hBUFLxtCg6Zss_KjwScysVs2IZX_IlULs_HfamEDc11BNrVnJJIM9VAl6qmhSf5OW03LRMT_cBvCGVsHafEFlZjITtzXmfdxBB6zvKr_lZCvfbBwCGzkmQ_s2hvIzejWnfHhL&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=H8Y1EQAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=H8Y1EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=H8Y1EQAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "1"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=H8Y1EQAAQBAJ&rdid=book-H8Y1EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/1984-sample-epub.acsm?id=H8Y1EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/1984-sample-pdf.acsm?id=H8Y1EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H8Y1EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6oHuKQe3TjQC",
+      "etag": "VplKw4JpaA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6oHuKQe3TjQC",
+      "volumeInfo": {
+        "title": "Design Patterns",
+        "subtitle": "Elements of Reusable Object-Oriented Software",
+        "authors": [
+          "Erich Gamma",
+          "Richard Helm",
+          "Ralph Johnson",
+          "John Vlissides"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "1994-10-31",
+        "description": "<p>The Gang of Four’s seminal catalog of 23 patterns to solve commonly occurring design problems</p> <p>Patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves. Highly influential, Design Patterns is a modern classic that introduces what patterns are and how they can help you design object-oriented software and provides a catalog of simple solutions for those already programming in at last one object-oriented programming language. </p> <p> Each pattern:</p> <ul> <li>Describes the circumstances in which it is applicable, when it can be applied in view of other design constraints, and the consequences and trade-offs of using the pattern within a larger design</li> <li>Is compiled from real systems and based on real-world examples</li> <li>Includes downloadable C++ source code that demonstrates how patterns can be implemented and Python</li> </ul> <p>From the preface: “Once you the design patterns and have had an ‘Aha!’ (and not just a ‘Huh?’) experience with them, you won't ever think about object-oriented design in the same way. You'll have insights that can make your own designs more flexible, modular, reusable, and understandable - which is why you're interested in object-oriented technology in the first place, right?”</p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0321700694"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321700698"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 416,
+        "printedPageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Computers / Artificial Intelligence / Computer Vision & Pattern Recognition"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.11.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73y5LpeX0IgCaV0r_RpxKwMTmLt1XQDMzfuzQfOmWiJVab7Hr92v7RRDJPDfUJ-K-S3i0iix7aX1bpQrhfyT0pDXbL0lIFLtCZPRDL5sHWxIZ2bZlGShuJKFvD0zSWy0a13f1ro&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE730lmv-v96nDmsxQT6v6mXNn1_BO_57LW_9aONw1U9jm-P7kvDCVCNaHyygYX2W9PfBXQTAMZzR_DqzAlGkZMSIsxN8M4MIuoPTOyscdpAwaE1c2gwv7Lt-CKRFmsADiqbvLBHc&source=gbs_api",
+          "small": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72PCggpqCSOXm3IMhmKbNKVweI9j9dNeqLYUxqqnW4cdQyrLgD8XVcEz4kJbnM7QY_17OGzFZjq5yQPof9Sqd_Wjrzs9AITy7Owec-mSkQ88zrlDMrTCoX9724KjnIwhyafZSQe&source=gbs_api",
+          "medium": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73hJZ13B-krMl2Y2prvrwzN_WJQAcQa6sEpaFAcEpF5GECVZfP3huEWtNcJ4WSx3GjOgfaA1F-6zrGVs33ll-_O5eAZwyXg41Svo6_txGCa6DpXAsgkU6BPg7Pk4jHnZTc6ix6x&source=gbs_api",
+          "large": "https://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72CPdRwLNsUXhEQBY9LfFChAN2bSsgfv8MV7Vi0dEW6FnTVPJQR_R45LqmRg5HWcSos4xhzdQkJ63CL9c96-G8R-I8vBf_fZ-Br-IU_5PWtBOFGvc8SzL189pwMMeVTsVSHMKw0&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71azyhejfXUiEqGhacPTH8w4LtZtRmCsRV3wivqilVxW5FLKmcWhSTXHq43ZiVtRadVDh8ElXP7gsU_osRgHMbQS1moqZCfrM8Y2K5Fo3zV5O5k04WNB8hgY9XN2g5NMWu3OhCl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=6oHuKQe3TjQC&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6oHuKQe3TjQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6oHuKQe3TjQC"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "13"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 39.43,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6oHuKQe3TjQC&rdid=book-6oHuKQe3TjQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39430000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6oHuKQe3TjQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "699qCwAAQBAJ",
+      "etag": "oDilZOTYjX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/699qCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Las aventuras de Don Quijote de la Mancha para niños",
+        "authors": [
+          "Miguel Cervantes Saavedra"
+        ],
+        "publisher": "Ediciones LEA",
+        "publishedDate": "2015-12-09",
+        "description": "Don Quijote es un voraz lector de novelas de caballería, esas donde los hombres van a caballo por los campos, combatiendo contra gigantes y liberando princesas que fueron secuestradas por hombres malvados. Nada de lo que cuentan esas historias es cierto, pero Don Quijote no lo sabe. ¡Él mismo quiere convertirse en un valiente caballero andante! Junto con su fiel escudero Sancho Panza, recorrerá los reinos de España en busca de aventuras que lo hagan famoso, mientras suspira por el amor de su amada, la bella doncella Dulcinea del Toboso. Una adaptación para chicos de entre 9 y 12 años del mayor clásico de la literatura en español. Una obra ilustrada a todo color para lectores curiosos y aventureros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9877183250"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789877183252"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 64,
+        "printedPageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction / Action & Adventure / General",
+          "Juvenile Fiction / Classics",
+          "Juvenile Fiction / Short Stories"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72RaxKGk-zTXyrUUm_FzR6jbbjg3sLopY028PSQi4m9Eyz65wYYIWsiD91v-bCw6O-StG_3DHDHp8gH2rMc6_IxJ4JJzVul94G5h4pqVL5FQdlAiQyb9GwyGuxG5HoeSX6Mof6h&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE707sRBEvEzETv-ZeQSGO1KmjUW7BDfQ5gOT7kkEE13kOF8JZXLoK5QPWROhgITVfu42AD1JVo8pp5HVVrH9PQtj2eo4XyOq6QAAxl2NtQ8Cllhm6W7Ndk0yDNBWsdyKN8OnCLfC&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE700o1X3qTktzTGyd7ipqRu1NAg5A0Aiib4A3q1qCImwqxUFOlIeNdNFEuPXY4IUTKpRbJ-5Bt7jEfbffBpC2j1MxymMadBV3095tkQ2TsN5D5dMpEDCV8uq-Frs62bcQ9PBPFUD&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE713OKidLtudWkEymEue1X8SgcOYPCYZ_IvleVrzcjQDdqIYslhttTQP5cEF8B83z0Wbwd8JNtFcrOtHdzrKD1ETG5L70UhTo2kl68coJ43SAulVA1ejbEJzqi04Tp4FDXMRYKcY&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72Cd_eNjALftYoSQwLXi9RJ8q7sZHZ86HLbWlXcNT97vWSDDdx89C090NW8pKC-cjs4xF8fO4cj1HxYa2q1oRnX1g6URUp97kh1gz6ON-vlvXWCo8oj85K0BcVJ5OKvpzu6NI_z&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71iCGm7VmwYB0Y2D5AzDxlz6YvEqH8wEaoAL4VeFHdrr6jQiX_0QWqa9k_3TT5P7i4IvKBbILNddAttcfVKMEBXiQxib4XJlkuv4Gft9CGnU5whBWfr3QwKNywc2l4kAorXh7sU&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=699qCwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=699qCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=699qCwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "5"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=699qCwAAQBAJ&rdid=book-699qCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Las_aventuras_de_Don_Quijote_de_la_Manch-sample-epub.acsm?id=699qCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Las_aventuras_de_Don_Quijote_de_la_Manch-sample-pdf.acsm?id=699qCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=699qCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pf70DwAAQBAJ",
+      "etag": "lQAG/cYseOY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pf70DwAAQBAJ",
+      "volumeInfo": {
+        "title": "El almohadón de plumas y otros cuentos",
+        "authors": [
+          "Quiroga, Horacio"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2020-08-03",
+        "description": "El almohadón de plumas y otros cuentos de Horacio Quiroga es una breve selección de tres cuentos del escritor uruguayo: “El almohadón de plumas” (1917), “A la deriva” (1917) y “La lengua” (1921). “El almohadón de plumas” describe la lucha contra la enfermedad de una recién casada, acompañada de su marido, sus trabajadoras domésticas y los múltiples médicos que intentan sin éxito alguno explicar y aliviar el extraño padecimiento de la mujer. “A la deriva” narra la larga agonía de un hombre que es mordido en una selva alejada de la civilización; el hombre intenta con todas sus fuerzas luchar contra el veneno en un paisaje inhóspito que nos recuerda al Amazonas y a las selvas latinoamericanas poco exploradas en el siglo xix. “La lengua” es un cuento que narra la lucha de un hombre por conseguir venganza en contra de un viejo amigo, sin saber que el concretarla traerá para él consecuencias terribles.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6071664675"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071664679"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 29,
+        "printedPageCount": 39,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction / Short Stories (single author)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71sP9UKgl2wL309-EfsG-3ecNSqbdw_CiVyxMVdEmm7xXgj2gut3Igt_Bv9_OSJDlBT68Bv3eTUQbBB5vVmjtejwvgajO9yq_sn8JEp9yEvynWkf3PcibcGTV5TSrnJCEoG6zFV&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71X-B0tn1x-pNBP0LALTLoiz-Xq5O2ZjgPEqLHTESns7vOt1OHn08qujeskar_xFwqILNdksa0qHi-fxjxruywita3kMSv-y0k4HP7HZZwf21ZJs24_5s2QB260Itm02FCfZrfE&source=gbs_api",
+          "small": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73ppJeKNKpZ5WDjxVv9OrHgqndWo2HDqrxDfqXEUM7wc8EBzebq1-u4B9cuIjpt3f_4bLQQmkx4Via9FGioMYmE3n8XTJPgrVvwhGqi8vKhQPuXLIre3NGh4XOTdjTuijC1eBEp&source=gbs_api",
+          "medium": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70f4CzEnMMpakkGNXXBn4jiQLH9y4h8axixetGGPPQR0FxEq1ix99aJnbpnZ-EEAFPFzHfpLw0FwjMqaXg4eDSxI4E2QGgS4qxAsJo4VNw4zZ9GFuIMXhDpQ6FvoYIK0OM3j5ll&source=gbs_api",
+          "large": "https://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73oAdPAXW6ATLdMGG2D8LdHXBYcFptuBy1eRH0CAFGb-0i3b-VR54KPgTyaSbH2JXdUDKTZRIayY_bt78bRX2mG4tTP5zBP-VwvSR0dOBUDDSuTimb4V-k2Mlr4vEd6GhE-n5L2&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE737NgXNmV-y1MYtI0NQs9YUf9PcNFaC-01dt5BCR8Jazh-Xwk_-KTjehLA-YBg6ogXnly7pTm-OB2oUrHTevTO-RwVdgIXy_CXnhpzAyJPfDS2hv7gZv15XusvmjUUCu4-Hi4-z&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=Pf70DwAAQBAJ&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Pf70DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Pf70DwAAQBAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "4"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.39,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.39,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Pf70DwAAQBAJ&rdid=book-Pf70DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 390000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 390000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_almohad%C3%B3n_de_plumas_y_otros_cuentos-sample-epub.acsm?id=Pf70DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_almohad%C3%B3n_de_plumas_y_otros_cuentos-sample-pdf.acsm?id=Pf70DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pf70DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "USHY7YqtIp8C",
+      "etag": "XYNoY+/BtLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/USHY7YqtIp8C",
+      "volumeInfo": {
+        "title": "La interpretación de los sueños",
+        "authors": [
+          "Sigmund Freud"
+        ],
+        "publisher": "Ediciones AKAL",
+        "publishedDate": "2013-03-01",
+        "description": "En 1899 Freud publicaba por primera vez la obra que sería considerada como la más importante, representativa e influyente de su toda su producción: La interpretación de los sueños. Con ella daba inicio a una nueva disciplina, el psicoanálisis, que proponía el modo a través del cual acceder al inconsciente tomando elementos de las experiencias vividas. Por primera vez se introdujo el concepto del Yo y los sueños fueron objeto de un estudio científico. Gracias al método propuesto por Freud, pudieron interpretarse los contenidos de aquellos, generalmente como la representación de deseos latentes. La interpretación de los sueños es un libro fundamental para quienes quieran conocer o profundizar en las teorías del padre de psicoanálisis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8446038188"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788446038184"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 656,
+        "printedPageCount": 657,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology / Movements / Psychoanalysis"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE726oKywEwW8v2bt1jGgzLZRA9rFZSbahw1QmO_c28L4NPvSegA_mogTDnz8qqSAqzWdXSOCrD-_-PPOT_sVwHfEbsrAgjIcgMm265Vyo9w9w_AgsUS1r9FQlb49VzJHgMIejSXf&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72Rh6I8pG3Dwcf0Aq9W3wMDPEV9yzCnym1hWRy3h82HIkbrLUXR9UGUX6UP8-rShHZMVdd1drMgiVdj0dfvwDfUFX-da4wyFA8rdys028CBeYSwfyMXKyfFzM1JvrR1QNAQ3XEb&source=gbs_api",
+          "small": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70ximYXYDoDlDL4z1xRDbHsF_p4QMoCXOuI7ijbqDFEjjWLLeASH74a-KvV9C_We8fdIO-lrNem3_1SLV6FiN4tquys2Hu90MYqm3UeRJ9R-ifBxmQTnJKHRGA07GqP4V88RoEN&source=gbs_api",
+          "medium": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE7278r8MGXllh9vODO8CcfX4wB8HtkMQv7f2NHlwbUOa4SruQ1s-MPnvdqYh_-zHff2kWlBlW-aWZ13FyWGPrGWNUqCDvcQPEFLRjyWUmhuH2L2TF9H3xEehNaHU7j9pUxOmxgkg&source=gbs_api",
+          "large": "https://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70U7NwOso-YYUfjXYIs28JodjK1LJ2jX36240J_r_QGkxr4rDfPccswliQWxXEvLEVpnIgX-l68znxSCgOwPJJyw9R_ETDDWPw7wk1CsRD6g5lhOkhh1WoynqAF0q9eBUNa2KUA&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71y5s8x_mNS9VIVCCJvYUxb67ykzZ8kA6paoGS4AZQ-KIVWTA2M8yISranmTv35W3LIzkhsfVFRDufZSQWjCi6X1l74jw4jeBt2M3n0YE-D-70HsImOMQmix_oPWJRV2Jo22kHa&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=USHY7YqtIp8C&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=USHY7YqtIp8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=USHY7YqtIp8C"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "9"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.72,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.72,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=USHY7YqtIp8C&rdid=book-USHY7YqtIp8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9720000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9720000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/La_interpretaci%C3%B3n_de_los_sue%C3%B1os-sample-epub.acsm?id=USHY7YqtIp8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/La_interpretaci%C3%B3n_de_los_sue%C3%B1os-sample-pdf.acsm?id=USHY7YqtIp8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=USHY7YqtIp8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fT1R8r_CkOIC",
+      "etag": "9H/lAmbhtjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fT1R8r_CkOIC",
+      "volumeInfo": {
+        "title": "Libro de sueños",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "DEBOLS!LLO",
+        "publishedDate": "2013-04-11",
+        "description": "<p> <b>El sueño como el más antiguo y no menos complejo de los géneros literarios. Una asombrosa recopilación de la mano de Jorge Luis Borges.</b> </p> <p>En este volumen, Borges presenta relatos de paisaje onírico de distintas épocas y documenta lo que ha soñado el hombre desde que es hombre, discurriendo por el sendero que va de las primeras civilizaciones a Kafka, revisando los trances proféticos del Antiguo Testamento, las epopeyas clásicas o la filosofía china. Una fabulosa antología, en definitiva, que consagra el sueño como el más antiguo y complejo de los géneros literarios.</p> <p> <i> <b>«Este </b> </i> <b>Libro de sueños</b> <i> <b> que los lectores volverán a soñar abarca sueños de la noche -los que yo firmo, por ejemplo-, sueños del día, que son un ejercicio voluntario de nuestra mente, y otros de raigambre perdida: digamos, el Sueño anglosajón de la Cruz.»</b> </i> </p>",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8490325685"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490325681"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printedPageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism / Ancient & Classical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.22.18.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE730VpIrEk46E5Rve2H2DtPCTTGIiVue7QiL5q9r8e6VR90ZJqYF4wJvKA5qaPmtfhEVUtqQoamoLj5Dn4ybALRZ4o3KTRy3wZsVSGkpg5F7XEUI11dA3j1i-WaLuOg8A6XpaEAN&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72rYpqgQoXOwWOd5Be2tS_CGRk1xI7VdeosVfSTEQ0oSMTJzZO2OiRbJbDobqOUioqj_U8ERJTgzGWu3JKDKyjhXcqHZcrEjKq70Dx_cyhyrftCZbqYycwyeg1NN1gu_qc1D-LO&source=gbs_api",
+          "small": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70m1ruqnckWsarUXJT-Ym3jJwp5nuCSi0uEbBXCI5P9pq5BlSmo8guT92y6d3d1KLdwm7YWc2d6xWO5y6bFqddb41XRtHs03vUBKsDqnbo4ikb69BEzrzaQAcWl9aP08i4TZpUf&source=gbs_api",
+          "medium": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71nQwiIjPoBIrcnNtjAE3d6aaGEKVOcXXRjH4-dppcu2G-GgTeRNhD2JSWcLbX1N6tip4BD9N80YdZmWc7MN6Muao4BtL0yEJJ0WAQPseePgxz9Q5jaDjvNqtATFgf9Fb95Ghog&source=gbs_api",
+          "large": "https://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE7343SxYXojz9CrtEU4UW8av1sVS1FDWsyHHBuWA4Ptw7hAvhEhvcJqTMTH97kqFQcL6rN215-04UCkCQVzqU9f2161_fZYyI38OLIHbIYDPtQdOTckoCdFg1ONZnc-rDrOer25Q&source=gbs_api",
+          "extraLarge": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71hW18JQHySO53-nnseirwAU9xcan3C7jEd7wD3l3x6H6Ao7WbWSN4v2dNTMlHmiG-qiRFmFplBFnT3TloQL2dxt21eP63UHbkMZ1fQRMSPkyMPzrO1ARRfindXYqFDO1l0BJ_Z&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=fT1R8r_CkOIC&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fT1R8r_CkOIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fT1R8r_CkOIC"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "35"
+          }
+        ]
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fT1R8r_CkOIC&rdid=book-fT1R8r_CkOIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Libro_de_sue%C3%B1os-sample-epub.acsm?id=fT1R8r_CkOIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Libro_de_sue%C3%B1os-sample-pdf.acsm?id=fT1R8r_CkOIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fT1R8r_CkOIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
