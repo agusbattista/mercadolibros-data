@@ -13,8 +13,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 33.99,
-        "currencyCode": "USD"
+        "amount": 33.99
       }
     }
   },
@@ -31,8 +30,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 5.99,
-        "currencyCode": "USD"
+        "amount": 5.99
       }
     }
   },
@@ -49,8 +47,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 8.99,
-        "currencyCode": "USD"
+        "amount": 8.99
       }
     }
   },
@@ -67,8 +64,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 15.99,
-        "currencyCode": "USD"
+        "amount": 15.99
       }
     }
   },
@@ -85,8 +81,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 4.99,
-        "currencyCode": "USD"
+        "amount": 4.99
       }
     }
   },
@@ -103,8 +98,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 31.99,
-        "currencyCode": "USD"
+        "amount": 31.99
       }
     }
   },
@@ -121,8 +115,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 5.99,
-        "currencyCode": "USD"
+        "amount": 5.99
       }
     }
   },
@@ -139,8 +132,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 1.86,
-        "currencyCode": "USD"
+        "amount": 1.86
       }
     }
   },
@@ -157,8 +149,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 17.99,
-        "currencyCode": "USD"
+        "amount": 17.99
       }
     }
   },
@@ -175,8 +166,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 3.99,
-        "currencyCode": "USD"
+        "amount": 3.99
       }
     }
   },
@@ -193,8 +183,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 5.99,
-        "currencyCode": "USD"
+        "amount": 5.99
       }
     }
   },
@@ -212,8 +201,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 57.99,
-        "currencyCode": "USD"
+        "amount": 57.99
       }
     }
   },
@@ -230,8 +218,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 7.99,
-        "currencyCode": "USD"
+        "amount": 7.99
       }
     }
   },
@@ -248,8 +235,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 57.99,
-        "currencyCode": "USD"
+        "amount": 57.99
       }
     }
   },
@@ -266,8 +252,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 5.99,
-        "currencyCode": "USD"
+        "amount": 5.99
       }
     }
   },
@@ -287,8 +272,7 @@
     },
     "saleInfo": {
       "listPrice": {
-        "amount": 57.99,
-        "currencyCode": "USD"
+        "amount": 57.99
       }
     }
   }
