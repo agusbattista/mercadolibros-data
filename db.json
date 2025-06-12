@@ -22,24 +22,6 @@
             "identifier": "9786073155731"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 6701,
-        "printedPageCount": 6100,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Fantasy / General",
-          "Fiction / Action & Adventure"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.6.7.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73S6g6F_vYA6_Dj2n_62fy2qtbNKa51DRgB7ylPij9F4DCuBoBod7sob-OxOHCZxAHqVjLTYO9Hv-KBYCMXMQbRUYYtlUcL4DULHCJQFVKg8vPFigYhC3w21YwXmw59lZr9r_X4&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=krMsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72dIL1cNPzhBjrQh1s5Q5Lt0l8MWImY76aI0vDi7x2QSm4F9QLa2O74dP5mtTysFGYlOXE8k4fwh0x9BmicdQ1FVulMh_L-b2ydvzrOg3ETjRa07ilI4AOpuJrxW_gqDR4w3yfE&source=gbs_api",
@@ -112,25 +94,6 @@
             "identifier": "9788445077917"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 704,
-        "printedPageCount": 617,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Fantasy / General"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 22,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.40.39.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73hmV-CLcvJ4df292K3VsWSwU9TPa9l0JMNLGh_TvipNNc_Yya8OHf27-40ZJIZp_H8dSGPu3N0BxIV0E0nSi4pWVyBbF-hsVulIs5nU5yl5kQ0ZQmJV1OW7zmaeMcs1Ay_VWaY&source=gbs_api",
           "thumbnail": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE723KgbpEXcei840yTr86gWjF59e4UJzl_Sn5_yi2M2eu14Wl02s005n5pTWQ05vLS8_975RdvOOEHZz6JjSYwRgYhiFtNlSLG7whTtGwPIqBDWAbWVvWjPaxO47fAl-YSx_0SIx&source=gbs_api",
@@ -203,26 +166,6 @@
             "identifier": "9789501510669"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 432,
-        "printedPageCount": 383,
-        "dimensions": {
-          "height": "19.00 cm"
-        },
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Romance / Historical / General"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.5.6.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE729d-uk_uGWd8_dEmb6bu8rbD-UB7TZvSKJCsoOPPwT0GBwhSc_fU8FiZb8JqcjunAgRtOyHFIgdGVrWz3OUY83CLrq2oiVqGskMJ1ogv8ms1NXyAuzPPWxseU-fCtVrvYDMgiP&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=IAF7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73s-_g2oelzD06UElFfQAik9P9vNV7ysI8hVqwEXpGTweEoaTCNNvvtsdWPc8aNMgZZ8qJL9yE1J06PHfxbHrHZ7SegcJvecI0eWd5zj0fZPfccvrW_IR_PLfUjk9frdtJGEJ5n&source=gbs_api",
@@ -296,26 +239,6 @@
             "identifier": "9786073123693"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 872,
-        "printedPageCount": 1145,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Fantasy / General",
-          "Fiction / Sagas"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 1,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.26.23.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71wEjmJxh_8-UUKa5ybRBeetscAfTvGTVLaEbV73k9K927QB052bvfjeVj_QziU5coyEAKbHa6aRHUj3vkMsX87C-_w7EOPufTmkDp3sTQsGi0HSsgBtPHIByeohhUIDYzB8dlg&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=tM82AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72ZzWG7-kDAjM-gukWbDi4Jq0i3Hd9hdQm97z5u_mVzUFQ9-e0ZU1WhRaR9LSJIVKZPh63xbbvB8sYdXgOyGzARxcoNgUvhzaetJKvt3MqZDpBgaVhSzZjhe97pf-wvmtvbvo6x&source=gbs_api",
@@ -388,25 +311,6 @@
             "identifier": "9789877184938"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 64,
-        "printedPageCount": 75,
-        "printType": "BOOK",
-        "categories": [
-          "Juvenile Fiction / Classics",
-          "Juvenile Fiction / Fantasy & Magic",
-          "Juvenile Fiction / General"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.1.1.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71K0rFz0zCN1CvoIlRXPvsNDIQpmr9vnyFpOZ2mjeivKJ5KeH_MLSumLXIDIJfmqYXQhj8jYu0fJIbGbFJynaXCSdg8dxv_vkIwG99ta5i8Ajzs8CYGc0djQzBETRTnjVSljCZb&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=oDzZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70PGSzaxBao38o6JmGD24YVDbBgTnpOW-t-7ysuPNDgKcmWZdmQfywj2DpFR1g52W6Kpq5FG5Uk5LRUqVQco12EGfs-8tsmLg41V796B0KXk32BFZga_px9WM-CtTpX246IoaZr&source=gbs_api",
@@ -480,24 +384,6 @@
             "identifier": "9788466362092"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 3472,
-        "printedPageCount": 3710,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Science Fiction / Space Opera",
-          "Fiction / Classics"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.7.7.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71Do2bIaByUNx2Fg6fYkmYV5iJLEU2W-PY-ScFVJJGACdGWEmgeYfRVhiKT6YYWl_ubW-xMkl3i_uAdl5asLbQQZaK0s12W4H2f4uqWVTAr3Dzn0VPNhHTIaW1Gf2ioYRmXqb61&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=uf5NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70NNN5gxXkO6B4UNzsRbgn6haB3UX3DGYEUgQA7wq0zi3NWCxPTo-Tq3w1sTh3IglCidcP3MUVT12IsMJDZKqqU4OdviMj3OWN9QfixmgEnwYGfHIeyALdyzV-5ScSG863z3a5V&source=gbs_api",
@@ -570,24 +456,6 @@
             "identifier": "9788417541705"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 264,
-        "printedPageCount": 179,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Thrillers / Historical",
-          "Fiction / Mystery & Detective / Private Investigators"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.7.7.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70BC5Hr2faVAzyr2LI0JxOtcglGrbyA0jUT9AfVC7fNKPwD9LSzUpw1hGeIVgdV9Dk8yyko2g2o5PNeMxPlaRWapU7Uq7MGmShHbdbHt6CPSYcjyeEaf9B8lyIn5jNSWvOGNchB&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=FYt8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70RHlRzr3MTnbHYtOZXHg9ortlIvj8Hd23_SY6k4ONR6eIhd7WnUu84jisOeSrQerQ4EDIexId4pTXw53XzCi818CiI7gXd04mF33fYCNjGWk-ROFfMKPR3Hsvoe8eJ9TuLXj9Z&source=gbs_api",
@@ -661,24 +529,6 @@
             "identifier": "9786558941811"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 90,
-        "printedPageCount": 93,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Classics",
-          "Young Adult Fiction / Classics"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.1.1.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70hzx-Zxi1HRxPvFGanhWOdMLipxvirjHYPmmn9sMycQ4Ar8uJlFQT9CnpLXiuosuvCliWaTLT-ERDPKau14swKuab8N5mYl9GW1KgUMgs081gvW8lCHqjUj8cHCeJATSAXl5M9&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=KK6eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70OtT4YgiD4DK5xLSEyqrdengWtweUPOms2wHabL6pxybgS7u-2t_L0-uSID_5MGkTELDU26NgQ9lbZFW_RVDKJ2Nf9c_IVrCv_jVz1fKQWdTJ1d7B21sboge0wNME8jtJjOUOs&source=gbs_api",
@@ -751,24 +601,6 @@
             "identifier": "9788401023965"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 944,
-        "printedPageCount": 1153,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Fantasy / General",
-          "Fiction / Action & Adventure"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.4.4.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72d-GIcZFpJbPUixk4UzHD-oE1iGJ9FH1cQbx7FXnaekveoT9wkp_r3iKsQhciu_WfiZY3K3nPAB-FYcxoJBijnJ86MJi7e7PatjGMTtSO4MrnucDJTng2F_cOKlIQSO_cUvhKc&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=IZWWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72yzMSwaLYnLh4NhP9wWHPRfLiYw2Dc3zl_uuMBVoJXA9vu_cIbii5bDriXBpd_gSaRVv5luwwG5LuVDtGBFp2jXqi4IwNMdbKEdsJMzScBc7OU1GN2F8oanFl_oC3nNPkE7BbA&source=gbs_api",
@@ -841,26 +673,6 @@
             "identifier": "9781400334605"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 144,
-        "printedPageCount": 145,
-        "printType": "BOOK",
-        "categories": [
-          "Juvenile Fiction / Action & Adventure / General",
-          "Young Adult Fiction / Classics",
-          "Fiction / Christian / Fantasy",
-          "Juvenile Fiction / Religious / Christian / Action & Adventure"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.3.3.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71gDYnQqAIXSLwEC2LclKzkXTPi5XhymPrA6dgKVbaht0CXsf8do6Ag4qW6nS_1jCF3MujG545nditmbYKWB68Ge-baPZOqYAvGAjvaEYPBL9wya6KNdS6MJ9zQ3TkYjzDN-mOf&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=l1-aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73BbzoPbXRy_7aS1qIsbwUNPM9zkvA8cT22PQzH2IYRa2b3kKSyAO6YBmfIY4NAFIYKIPOuecd5h4FkUIV6n3hujPBDJ8-Zbvtv7OwLoIk2oobfLfiCmypHRLIVean1qcR2sJ8C&source=gbs_api",
@@ -933,24 +745,6 @@
             "identifier": "9788491051244"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 888,
-        "printedPageCount": 917,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / World Literature / Scotland / General",
-          "Fiction / Mystery & Detective / Traditional"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.14.13.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70XcDAhZGKqj_EI_JYWQc8QKNSyea4f8hbwx3hpmj6tM_Lta6uRZBcuQ9s5ksQsvNokxqRv8GNM77klV-j51_NQG8UMwYgx8X_n-lpWwosy2vvuQic_7LmEuyp-LWotxBQL1e7Y&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=jgYmCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73f_zEap1DWysnI-r4CSiTm6BxNnQ3Ou9isUM-AEqBNgRTx5h7RROF6BiNY6xKlbm0ZG1tzvVW6ra9fSHTUqWx5kcO0UYb7N9HYzxJ04W6VkEwCG9R8Vw7mTTGR7wjNf0o4AgZj&source=gbs_api",
@@ -1025,25 +819,6 @@
             "identifier": "9780321630049"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 480,
-        "printedPageCount": 449,
-        "printType": "BOOK",
-        "categories": [
-          "Computers / Programming / Object Oriented"
-        ],
-        "averageRating": 5,
-        "ratingsCount": 1,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.12.10.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70DZ2nvuWFMKYSxPBP577Rc_SxmzYO6YFx442qwgnYWuDypU5fA10bKvtgthbK_CeCY25YeSQGQ-y3cmDBYH3cx9X0gLldprzxTj0p_GTXcODK5MPwIJ3M-sPS1IPLSw6WSJ9Q1&source=gbs_api",
           "thumbnail": "http://books.google.com/books/content?id=84Whswqz4rAC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71pyLo1pZ1SGgTeOosj0mT2X0ZASPfCXdz_RJrajrmv3Z96838Hoj_NPQ1m4z7mO8iSDjEE_EkXsRZbdRSt6gRzLW1Wjkd_EnuOYN_13-qFKnk_oxkatN0sKmSc378UBkjrZPGa&source=gbs_api",
@@ -1116,31 +891,6 @@
             "identifier": "9788439729877"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 176,
-        "printedPageCount": 104,
-        "dimensions": {
-          "height": "23.90 cm",
-          "width": "14.30 cm",
-          "thickness": "1.50 cm"
-        },
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Magical Realism",
-          "Fiction / Literary"
-        ],
-        "averageRating": 5,
-        "ratingsCount": 3,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.19.15.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72j60FJyGp5QJ0tqn_MpwIDQ-J-QROOK_WwtWKNeVCTqTSlmPwuh8QvO99Fy5deJuGvubpzszcPBAkt2aFYgH5BZUQdVA6CwXvnuXShrFEf3BEgiIreL7GxOgS7xCvrZSgmMsJf&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=gDNjBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70h5krcpxT9HKLuzdSzptz6aVnmiiRtZI8fx-7DLkXlLqFkQ8lcr7XY-LtYU-Pulkae-Eht8kp_yZXUNEHIsKTJEufjbqAaoMF1T97xlB-KdVTDFzXQPCBS0Mi3v37NfGCnjqSV&source=gbs_api",
@@ -1214,24 +964,6 @@
             "identifier": "9780134757704"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 448,
-        "printedPageCount": 1221,
-        "printType": "BOOK",
-        "categories": [
-          "Computers / Programming / Object Oriented",
-          "Computers / Software Development & Engineering / General"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.9.8.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73fZjExM0NU1P8ej_iohISD50Q2nj2GQR6_h9KiU9-ryeKgIB6HIhExHw1lyrGicqnxl9EKiPgLR9ExuknigrhrLobGxf2fJQi1kkoEKY23CeaWqy0-Uqi-TYf7IfsGH0EWSQPF&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71Jig3upFbGmZ26JRDYDCSIokZfHN9oAG7iu1LZTgINdJaIgFV93okFG91USSsNAVtlPOB1il_xpyHJ3-8F8T6u6hQBro4vByL6dRuzAJyAMDQ5lI9VWn3O3-u2xCkW1Aem2ZYW&source=gbs_api",
@@ -1304,24 +1036,6 @@
             "identifier": "9788412794489"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 416,
-        "printedPageCount": 442,
-        "printType": "BOOK",
-        "categories": [
-          "Young Adult Fiction / Classics",
-          "Juvenile Fiction / Classics"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.1.1.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71fkA90pfUXcFKB0juhiSWilEvzACVzHh1hl6L2iKsGXYHZaS6f8XNR1SLwPoVLzABp3a96GL0sZ8HmtwGKRNiIvq8aHh-MJ9zRWTy-zD6UqXpuvI4rUiLfuiyMJhJWzxoT46tc&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=H8Y1EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73c66idApia1Ns6rXFLXL6YESYXAUFo76SQMRsARtnLQA8_8urTu3rUwXQjDlmp59Fzqakw-34jfI8j490pB0GOg1wF-D11eWJ4NemsMbFTPe6JqsITA7QClQ-wYfcXNBu-CQyG&source=gbs_api",
@@ -1398,25 +1112,6 @@
             "identifier": "9780321700698"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 416,
-        "printedPageCount": 496,
-        "printType": "BOOK",
-        "categories": [
-          "Computers / Artificial Intelligence / Computer Vision & Pattern Recognition"
-        ],
-        "averageRating": 5,
-        "ratingsCount": 2,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "2.11.9.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73y5LpeX0IgCaV0r_RpxKwMTmLt1XQDMzfuzQfOmWiJVab7Hr92v7RRDJPDfUJ-K-S3i0iix7aX1bpQrhfyT0pDXbL0lIFLtCZPRDL5sHWxIZ2bZlGShuJKFvD0zSWy0a13f1ro&source=gbs_api",
           "thumbnail": "http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE730lmv-v96nDmsxQT6v6mXNn1_BO_57LW_9aONw1U9jm-P7kvDCVCNaHyygYX2W9PfBXQTAMZzR_DqzAlGkZMSIsxN8M4MIuoPTOyscdpAwaE1c2gwv7Lt-CKRFmsADiqbvLBHc&source=gbs_api",
@@ -1489,27 +1184,6 @@
             "identifier": "9789877183252"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 64,
-        "printedPageCount": 80,
-        "printType": "BOOK",
-        "categories": [
-          "Juvenile Fiction / Action & Adventure / General",
-          "Juvenile Fiction / Classics",
-          "Juvenile Fiction / Short Stories"
-        ],
-        "averageRating": 5,
-        "ratingsCount": 1,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.2.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72RaxKGk-zTXyrUUm_FzR6jbbjg3sLopY028PSQi4m9Eyz65wYYIWsiD91v-bCw6O-StG_3DHDHp8gH2rMc6_IxJ4JJzVul94G5h4pqVL5FQdlAiQyb9GwyGuxG5HoeSX6Mof6h&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=699qCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE707sRBEvEzETv-ZeQSGO1KmjUW7BDfQ5gOT7kkEE13kOF8JZXLoK5QPWROhgITVfu42AD1JVo8pp5HVVrH9PQtj2eo4XyOq6QAAxl2NtQ8Cllhm6W7Ndk0yDNBWsdyKN8OnCLfC&source=gbs_api",
@@ -1582,23 +1256,6 @@
             "identifier": "9786071664679"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 29,
-        "printedPageCount": 39,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction / Short Stories (single author)"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.3.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71sP9UKgl2wL309-EfsG-3ecNSqbdw_CiVyxMVdEmm7xXgj2gut3Igt_Bv9_OSJDlBT68Bv3eTUQbBB5vVmjtejwvgajO9yq_sn8JEp9yEvynWkf3PcibcGTV5TSrnJCEoG6zFV&source=gbs_api",
           "thumbnail": "http://books.google.com/books/publisher/content?id=Pf70DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71X-B0tn1x-pNBP0LALTLoiz-Xq5O2ZjgPEqLHTESns7vOt1OHn08qujeskar_xFwqILNdksa0qHi-fxjxruywita3kMSv-y0k4HP7HZZwf21ZJs24_5s2QB260Itm02FCfZrfE&source=gbs_api",
@@ -1671,23 +1328,6 @@
             "identifier": "9788446038184"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 656,
-        "printedPageCount": 657,
-        "printType": "BOOK",
-        "categories": [
-          "Psychology / Movements / Psychoanalysis"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "2.5.5.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE726oKywEwW8v2bt1jGgzLZRA9rFZSbahw1QmO_c28L4NPvSegA_mogTDnz8qqSAqzWdXSOCrD-_-PPOT_sVwHfEbsrAgjIcgMm265Vyo9w9w_AgsUS1r9FQlb49VzJHgMIejSXf&source=gbs_api",
           "thumbnail": "http://books.google.com/books/content?id=USHY7YqtIp8C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72Rh6I8pG3Dwcf0Aq9W3wMDPEV9yzCnym1hWRy3h82HIkbrLUXR9UGUX6UP8-rShHZMVdd1drMgiVdj0dfvwDfUFX-da4wyFA8rdys028CBeYSwfyMXKyfFzM1JvrR1QNAQ3XEb&source=gbs_api",
@@ -1760,23 +1400,6 @@
             "identifier": "9788490325681"
           }
         ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 256,
-        "printedPageCount": 214,
-        "printType": "BOOK",
-        "categories": [
-          "Literary Criticism / Ancient & Classical"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.22.18.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
         "imageLinks": {
           "smallThumbnail": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE730VpIrEk46E5Rve2H2DtPCTTGIiVue7QiL5q9r8e6VR90ZJqYF4wJvKA5qaPmtfhEVUtqQoamoLj5Dn4ybALRZ4o3KTRy3wZsVSGkpg5F7XEUI11dA3j1i-WaLuOg8A6XpaEAN&source=gbs_api",
           "thumbnail": "http://books.google.com/books/content?id=fT1R8r_CkOIC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72rYpqgQoXOwWOd5Be2tS_CGRk1xI7VdeosVfSTEQ0oSMTJzZO2OiRbJbDobqOUioqj_U8ERJTgzGWu3JKDKyjhXcqHZcrEjKq70Dx_cyhyrftCZbqYycwyeg1NN1gu_qc1D-LO&source=gbs_api",
